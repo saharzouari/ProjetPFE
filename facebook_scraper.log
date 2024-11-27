@@ -1,0 +1,2005 @@
+2024-11-24 20:05:22,723 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF658F8E1F5+2972373]
+	(No symbol) [0x00007FF658C255F0]
+	(No symbol) [0x00007FF658AC57FA]
+	(No symbol) [0x00007FF658A9FA85]
+	(No symbol) [0x00007FF658B42B17]
+	(No symbol) [0x00007FF658B5B1D1]
+	(No symbol) [0x00007FF658B3B823]
+	(No symbol) [0x00007FF658B075E8]
+	(No symbol) [0x00007FF658B08751]
+	GetHandleVerifier [0x00007FF658FB47BD+3129501]
+	GetHandleVerifier [0x00007FF659004D00+3458528]
+	GetHandleVerifier [0x00007FF658FFB05D+3418429]
+	GetHandleVerifier [0x00007FF658D8687B+844123]
+	(No symbol) [0x00007FF658C30AFF]
+	(No symbol) [0x00007FF658C2C6D4]
+	(No symbol) [0x00007FF658C2C86D]
+	(No symbol) [0x00007FF658C1BD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-24 20:07:22,509 - INFO - Found 14 posts.
+2024-11-24 20:07:22,532 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:07:22,560 - INFO - Post 5 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628\u0627\u0634 \u0646\u062c\u0628\u062f \u0627\u0644\u0634\u0647\u0631\u064a\u0629   \u0646\u062f\u062e\u0644 \u0644\u0644\u0628\u0627\u0646\u0643\u0629 \u0648 \u0645\u0627\u064a\u0631\u0627\u0639\u0646...
+2024-11-24 20:07:22,646 - INFO - Added 2 new posts. Total: 2
+2024-11-24 20:07:24,822 - INFO - Found 20 posts.
+2024-11-24 20:07:24,843 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:07:24,913 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 20:07:24,922 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 20:07:24,931 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 20:07:24,939 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 20:07:24,948 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 20:07:25,001 - INFO - Added 5 new posts. Total: 7
+2024-11-24 20:07:27,026 - INFO - Found 23 posts.
+2024-11-24 20:07:27,054 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:07:27,185 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 20:07:27,213 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 20:07:27,283 - INFO - Post 19 collected: Bonjour, 
+J'ai un probleme au niveau de l app; depuis 2 jours je tente de faire un viremen...
+2024-11-24 20:07:27,294 - INFO - Post 20 collected: \u062d\u062a\u0649 \u0628\u0627\u0634 \u0627\u062a\u0642\u0627\u0628\u0644 \u0627\u064a \u0645\u0633\u0624\u0644 \u0641\u064a \u0627\u0644\u0633\u064a\u0627\u062c \u0628\u0627\u0634 \u062a\u0637\u0631\u062d \u0645\u0634\u0643\u0644\u062a\u0643 \u0645\u0627 \u064a\u062e\u0644\u0648\u0643\u0634 \u0627\u0644\u0628\u0646\u0648\u0643 \u0627\u0644\u0643\u0644 \u062a\u062d\u0627\u0648\u0644 \u0627\u062a\u0634\u0641\u0648\u0644 \u062d\u0627\u0644 \u0644\u0644...
+2024-11-24 20:07:27,320 - INFO - Added 4 new posts. Total: 11
+2024-11-24 20:07:29,326 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 20:07:29,345 - INFO - Saved 11 posts to MongoDB collection 'facebook_posts' in database 'social_data3'.
+2024-11-24 20:07:29,345 - INFO - Scraping and saving complete.
+2024-11-24 20:39:28,756 - INFO - Found 7 posts.
+2024-11-24 20:39:28,798 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:39:28,889 - INFO - Added 1 new posts. Total: 1
+2024-11-24 20:39:30,915 - INFO - Found 7 posts.
+2024-11-24 20:39:30,935 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:39:30,982 - INFO - Added 0 new posts. Total: 1
+2024-11-24 20:39:33,011 - INFO - Found 7 posts.
+2024-11-24 20:39:33,038 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:39:33,093 - INFO - Added 0 new posts. Total: 1
+2024-11-24 20:39:35,098 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 20:39:35,126 - INFO - Saved 1 posts to MongoDB collection 'facebook_posts' in database 'social_data3'.
+2024-11-24 20:39:35,126 - INFO - Scraping and saving complete.
+2024-11-24 20:44:47,344 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=53291): Read timed out. (read timeout=120)")': /session/b97113acf04df2c296ce3f26107469d9/url
+2024-11-24 20:45:20,157 - INFO - Found 5 posts.
+2024-11-24 20:45:20,179 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:45:20,205 - INFO - Added 1 new posts. Total: 1
+2024-11-24 20:45:22,224 - INFO - Found 5 posts.
+2024-11-24 20:45:22,242 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:45:22,268 - INFO - Added 0 new posts. Total: 1
+2024-11-24 20:45:24,286 - INFO - Found 5 posts.
+2024-11-24 20:45:24,305 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:45:24,332 - INFO - Added 0 new posts. Total: 1
+2024-11-24 20:45:26,337 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 20:45:26,391 - INFO - Saved 1 posts to MongoDB collection 'facebook_posts' in database 'social_data4'.
+2024-11-24 20:45:26,391 - INFO - Scraping and saving complete.
+2024-11-24 20:47:26,587 - INFO - Found 9 posts.
+2024-11-24 20:47:26,608 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:47:26,668 - INFO - Added 1 new posts. Total: 1
+2024-11-24 20:47:28,740 - INFO - Found 17 posts.
+2024-11-24 20:47:28,791 - INFO - Post 5 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628\u0627\u0634 \u0646\u062c\u0628\u062f \u0627\u0644\u0634\u0647\u0631\u064a\u0629   \u0646\u062f\u062e\u0644 \u0644\u0644\u0628\u0627\u0646\u0643\u0629 \u0648 \u0645\u0627\u064a\u0631\u0627\u0639\u0646...
+2024-11-24 20:47:28,838 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 20:47:28,847 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 20:47:28,899 - INFO - Added 3 new posts. Total: 4
+2024-11-24 20:47:30,923 - INFO - Found 22 posts.
+2024-11-24 20:47:31,038 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 20:47:31,047 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 20:47:31,056 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 20:47:31,083 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 20:47:31,118 - INFO - Added 4 new posts. Total: 8
+2024-11-24 20:47:33,128 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 20:47:33,157 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'social_data4'.
+2024-11-24 20:47:33,157 - INFO - Scraping and saving complete.
+2024-11-24 20:50:20,991 - INFO - Found 5 posts.
+2024-11-24 20:50:21,013 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:50:21,037 - INFO - Added 1 new posts. Total: 1
+2024-11-24 20:50:23,110 - INFO - Found 14 posts.
+2024-11-24 20:50:23,128 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 20:50:23,156 - INFO - Post 5 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628\u0627\u0634 \u0646\u062c\u0628\u062f \u0627\u0644\u0634\u0647\u0631\u064a\u0629   \u0646\u062f\u062e\u0644 \u0644\u0644\u0628\u0627\u0646\u0643\u0629 \u0648 \u0645\u0627\u064a\u0631\u0627\u0639\u0646...
+2024-11-24 20:50:23,235 - INFO - Added 1 new posts. Total: 2
+2024-11-24 20:50:25,262 - INFO - Found 19 posts.
+2024-11-24 20:50:25,346 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 20:50:25,354 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 20:50:25,363 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 20:50:25,373 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 20:50:25,384 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 20:50:25,425 - INFO - Added 5 new posts. Total: 7
+2024-11-24 20:50:27,437 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 20:50:27,493 - INFO - Saved 7 posts to MongoDB collection 'facebook_posts' in database 'social_data5'.
+2024-11-24 20:50:27,493 - INFO - Scraping and saving complete.
+2024-11-24 21:11:45,342 - INFO - Found 5 posts.
+2024-11-24 21:11:45,391 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 21:11:45,416 - INFO - Added 1 new posts. Total: 1
+2024-11-24 21:11:47,442 - INFO - Found 5 posts.
+2024-11-24 21:11:47,460 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 21:11:47,485 - INFO - Added 0 new posts. Total: 1
+2024-11-24 21:11:49,507 - INFO - Found 5 posts.
+2024-11-24 21:11:49,524 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 21:11:49,553 - INFO - Added 0 new posts. Total: 1
+2024-11-24 21:11:51,558 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 21:11:51,587 - INFO - Saved 1 posts to MongoDB collection 'facebook_posts' in database 'social_data'.
+2024-11-24 21:11:51,587 - INFO - Scraping and saving complete.
+2024-11-24 21:19:08,110 - INFO - Found 11 posts.
+2024-11-24 21:19:08,133 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 21:19:08,245 - INFO - Added 1 new posts. Total: 1
+2024-11-24 21:19:10,322 - INFO - Found 17 posts.
+2024-11-24 21:19:10,417 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 21:19:10,428 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 21:19:10,437 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 21:19:10,481 - INFO - Added 3 new posts. Total: 4
+2024-11-24 21:19:12,505 - INFO - Found 22 posts.
+2024-11-24 21:19:12,620 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 21:19:12,629 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 21:19:12,637 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 21:19:12,666 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 21:19:12,706 - INFO - Added 4 new posts. Total: 8
+2024-11-24 21:19:14,714 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 21:19:14,740 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'social_data-datetime'.
+2024-11-24 21:19:14,740 - INFO - Scraping and saving complete.
+2024-11-24 21:20:59,144 - INFO - Found 11 posts.
+2024-11-24 21:20:59,165 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 21:20:59,243 - INFO - Added 1 new posts. Total: 1
+2024-11-24 21:21:01,263 - INFO - Found 17 posts.
+2024-11-24 21:21:01,354 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 21:21:01,366 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 21:21:01,375 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 21:21:01,422 - INFO - Added 3 new posts. Total: 4
+2024-11-24 21:21:03,444 - INFO - Found 22 posts.
+2024-11-24 21:21:03,562 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 21:21:03,571 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 21:21:03,580 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 21:21:03,611 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 21:21:03,647 - INFO - Added 4 new posts. Total: 8
+2024-11-24 21:21:05,656 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 21:21:05,672 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'social_data-datetime'.
+2024-11-24 21:21:05,672 - INFO - Scraping and saving complete.
+2024-11-24 21:38:44,532 - INFO - Found 11 posts.
+2024-11-24 21:38:44,553 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 21:38:44,632 - INFO - Added 1 new posts. Total: 1
+2024-11-24 21:38:46,678 - INFO - Found 17 posts.
+2024-11-24 21:38:46,766 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 21:38:46,774 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 21:38:46,783 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 21:38:46,826 - INFO - Added 3 new posts. Total: 4
+2024-11-24 21:38:48,855 - INFO - Found 20 posts.
+2024-11-24 21:38:49,028 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 21:38:49,037 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 21:38:49,046 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 21:38:49,072 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 21:38:49,089 - INFO - Added 4 new posts. Total: 8
+2024-11-24 21:38:51,097 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 21:38:51,100 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'social_data'.
+2024-11-24 21:38:51,100 - INFO - Scraping and saving complete.
+2024-11-24 21:41:23,107 - INFO - Found 11 posts.
+2024-11-24 21:41:23,130 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 21:41:23,210 - INFO - Added 1 new posts. Total: 1
+2024-11-24 21:41:25,230 - INFO - Found 13 posts.
+2024-11-24 21:41:25,323 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 21:41:25,332 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 21:41:25,524 - INFO - Added 2 new posts. Total: 3
+2024-11-24 21:41:27,560 - INFO - Found 20 posts.
+2024-11-24 21:41:27,675 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 21:41:27,684 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 21:41:27,693 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 21:41:27,720 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 21:41:27,739 - INFO - Added 4 new posts. Total: 7
+2024-11-24 21:41:29,746 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 21:41:29,769 - INFO - Saved 7 posts to MongoDB collection 'facebook_posts' in database 'social_data'.
+2024-11-24 21:41:29,769 - INFO - Scraping and saving complete.
+2024-11-24 21:46:03,670 - INFO - Found 11 posts.
+2024-11-24 21:46:03,700 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 21:46:03,782 - INFO - Added 1 new posts. Total: 1
+2024-11-24 21:46:05,811 - INFO - Found 17 posts.
+2024-11-24 21:46:05,904 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 21:46:05,912 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 21:46:05,921 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 21:46:05,965 - INFO - Added 3 new posts. Total: 4
+2024-11-24 21:46:07,987 - INFO - Found 22 posts.
+2024-11-24 21:46:08,281 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 21:46:08,289 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 21:46:08,298 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 21:46:08,325 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 21:46:08,363 - INFO - Added 4 new posts. Total: 8
+2024-11-24 21:46:10,371 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 21:46:10,429 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'datetime'.
+2024-11-24 21:46:10,429 - INFO - Scraping and saving complete.
+2024-11-24 22:03:09,857 - INFO - Found 11 posts.
+2024-11-24 22:03:09,879 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:03:09,961 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:03:11,983 - INFO - Found 17 posts.
+2024-11-24 22:03:12,075 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 22:03:12,084 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 22:03:12,093 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 22:03:12,141 - INFO - Added 3 new posts. Total: 4
+2024-11-24 22:03:14,162 - INFO - Found 22 posts.
+2024-11-24 22:03:14,276 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:03:14,285 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:03:14,350 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:03:14,391 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 22:03:14,428 - INFO - Added 4 new posts. Total: 8
+2024-11-24 22:03:16,438 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:03:16,477 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'datetime'.
+2024-11-24 22:03:16,477 - INFO - Scraping and saving complete.
+2024-11-24 22:17:07,161 - INFO - Found 7 posts.
+2024-11-24 22:17:07,186 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:17:07,287 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:17:09,328 - INFO - Found 7 posts.
+2024-11-24 22:17:09,348 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:17:09,410 - INFO - Added 0 new posts. Total: 1
+2024-11-24 22:17:11,448 - INFO - Found 7 posts.
+2024-11-24 22:17:11,468 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:17:11,523 - INFO - Added 0 new posts. Total: 1
+2024-11-24 22:17:13,529 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:17:13,542 - INFO - Saved 1 posts to MongoDB collection 'facebook_posts' in database 'datetime'.
+2024-11-24 22:17:13,542 - INFO - Scraping and saving complete.
+2024-11-24 22:31:50,368 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=50549): Read timed out. (read timeout=120)")': /session/f85dcbddcc8951ca68446b7072ebd5ce/url
+2024-11-24 22:32:27,800 - INFO - Found 7 posts.
+2024-11-24 22:32:27,826 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:38:37,356 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:39:59,373 - INFO - Found 11 posts.
+2024-11-24 22:39:59,395 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:39:59,498 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:40:01,522 - INFO - Found 14 posts.
+2024-11-24 22:40:01,648 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 22:40:01,658 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 22:40:01,670 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 22:40:01,691 - INFO - Added 3 new posts. Total: 4
+2024-11-24 22:40:03,739 - INFO - Found 19 posts.
+2024-11-24 22:40:03,842 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 22:40:03,853 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 22:40:03,864 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 22:40:03,875 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:40:03,885 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:40:03,937 - INFO - Added 2 new posts. Total: 6
+2024-11-24 22:40:05,942 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:40:05,945 - INFO - Saved 6 posts to MongoDB collection 'facebook_posts' in database 'datetime'.
+2024-11-24 22:40:05,945 - INFO - Scraping and saving complete.
+2024-11-24 22:41:47,471 - INFO - Found 11 posts.
+2024-11-24 22:41:47,493 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:41:47,591 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:41:49,622 - INFO - Found 17 posts.
+2024-11-24 22:41:49,730 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 22:41:49,740 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 22:41:49,751 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 22:41:49,803 - INFO - Added 3 new posts. Total: 4
+2024-11-24 22:41:51,828 - INFO - Found 22 posts.
+2024-11-24 22:41:51,964 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:41:51,975 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:41:51,986 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:41:52,018 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 22:41:52,059 - INFO - Added 4 new posts. Total: 8
+2024-11-24 22:41:54,069 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:41:54,082 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'datetime'.
+2024-11-24 22:41:54,082 - INFO - Scraping and saving complete.
+2024-11-24 22:44:12,402 - INFO - Found 17 posts.
+2024-11-24 22:44:12,428 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:44:12,588 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:44:14,634 - INFO - Found 22 posts.
+2024-11-24 22:44:14,767 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:44:14,778 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:44:14,788 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:44:14,902 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 22:44:14,951 - INFO - Added 4 new posts. Total: 5
+2024-11-24 22:44:17,079 - INFO - Found 31 posts.
+2024-11-24 22:44:17,290 - INFO - Post 20 collected: \u062d\u062a\u0649 \u0628\u0627\u0634 \u0627\u062a\u0642\u0627\u0628\u0644 \u0627\u064a \u0645\u0633\u0624\u0644 \u0641\u064a \u0627\u0644\u0633\u064a\u0627\u062c \u0628\u0627\u0634 \u062a\u0637\u0631\u062d \u0645\u0634\u0643\u0644\u062a\u0643 \u0645\u0627 \u064a\u062e\u0644\u0648\u0643\u0634 \u0627\u0644\u0628\u0646\u0648\u0643 \u0627\u0644\u0643\u0644 \u062a\u062d\u0627\u0648\u0644 \u0627\u062a\u0634\u0641\u0648\u0644 \u062d\u0627\u0644 \u0644\u0644...
+2024-11-24 22:44:17,310 - INFO - Post 22 collected: Bonjour, 
+Besoin d'effectuer un paiement en ligne mais je suis à l'étranger et je ne reçoi...
+2024-11-24 22:44:17,407 - INFO - Added 2 new posts. Total: 7
+2024-11-24 22:44:19,415 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:44:19,439 - INFO - Saved 7 posts to MongoDB collection 'facebook_posts' in database 'datetime'.
+2024-11-24 22:44:19,439 - INFO - Scraping and saving complete.
+2024-11-24 22:46:37,337 - INFO - Found 14 posts.
+2024-11-24 22:46:37,363 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:46:37,393 - INFO - Post 5 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628\u0627\u0634 \u0646\u062c\u0628\u062f \u0627\u0644\u0634\u0647\u0631\u064a\u0629   \u0646\u062f\u062e\u0644 \u0644\u0644\u0628\u0627\u0646\u0643\u0629 \u0648 \u0645\u0627\u064a\u0631\u0627\u0639\u0646...
+2024-11-24 22:46:37,481 - INFO - Added 2 new posts. Total: 2
+2024-11-24 22:46:39,503 - INFO - Found 16 posts.
+2024-11-24 22:46:39,624 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 22:46:39,633 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 22:46:39,642 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 22:46:39,651 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:46:39,660 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:46:39,678 - INFO - Added 5 new posts. Total: 7
+2024-11-24 22:46:41,704 - INFO - Found 22 posts.
+2024-11-24 22:46:41,835 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:46:41,846 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:46:41,856 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:46:41,885 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 22:46:41,919 - INFO - Added 2 new posts. Total: 9
+2024-11-24 22:46:43,923 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:46:43,954 - INFO - Saved 9 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-24 22:46:43,954 - INFO - Scraping and saving complete.
+2024-11-24 22:50:01,197 - INFO - Found 7 posts.
+2024-11-24 22:50:01,222 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:50:01,272 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:50:03,292 - INFO - Found 7 posts.
+2024-11-24 22:50:03,309 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:50:03,353 - INFO - Added 0 new posts. Total: 1
+2024-11-24 22:50:05,371 - INFO - Found 7 posts.
+2024-11-24 22:50:05,390 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:50:05,434 - INFO - Added 0 new posts. Total: 1
+2024-11-24 22:50:07,453 - INFO - Found 7 posts.
+2024-11-24 22:50:07,471 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:50:07,519 - INFO - No new posts found. Stopping scrolling.
+2024-11-24 22:50:07,519 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:50:07,531 - INFO - Saved 1 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-24 22:50:07,532 - INFO - Scraping and saving complete.
+2024-11-24 22:50:58,075 - INFO - Found 11 posts.
+2024-11-24 22:50:58,097 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:50:58,197 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:51:00,220 - INFO - Found 17 posts.
+2024-11-24 22:51:00,324 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 22:51:00,335 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 22:51:00,347 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 22:51:00,397 - INFO - Added 3 new posts. Total: 4
+2024-11-24 22:51:02,431 - INFO - Found 19 posts.
+2024-11-24 22:51:02,772 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:51:02,782 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:51:02,791 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:51:02,838 - INFO - Added 3 new posts. Total: 7
+2024-11-24 22:51:04,863 - INFO - Found 29 posts.
+2024-11-24 22:51:05,052 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 22:51:05,062 - INFO - Post 19 collected: Bonjour, 
+J'ai un probleme au niveau de l app; depuis 2 jours je tente de faire un viremen...
+2024-11-24 22:51:05,073 - INFO - Post 20 collected: \u062d\u062a\u0649 \u0628\u0627\u0634 \u0627\u062a\u0642\u0627\u0628\u0644 \u0627\u064a \u0645\u0633\u0624\u0644 \u0641\u064a \u0627\u0644\u0633\u064a\u0627\u062c \u0628\u0627\u0634 \u062a\u0637\u0631\u062d \u0645\u0634\u0643\u0644\u062a\u0643 \u0645\u0627 \u064a\u062e\u0644\u0648\u0643\u0634 \u0627\u0644\u0628\u0646\u0648\u0643 \u0627\u0644\u0643\u0644 \u062a\u062d\u0627\u0648\u0644 \u0627\u062a\u0634\u0641\u0648\u0644 \u062d\u0627\u0644 \u0644\u0644...
+2024-11-24 22:51:05,090 - INFO - Post 22 collected: Bonjour, 
+Besoin d'effectuer un paiement en ligne mais je suis à l'étranger et je ne reçoi...
+2024-11-24 22:51:05,158 - INFO - Added 4 new posts. Total: 11
+2024-11-24 22:51:07,181 - INFO - Found 34 posts.
+2024-11-24 22:51:07,442 - INFO - Post 25 collected: \u062a\u0628\u0639\u0627 \u0644\u062a\u0648\u0642\u0641 biatnet \u0639\u0646 \u0625\u0633\u062f\u0627\u0621 \u0627\u0644\u062e\u062f\u0645\u0629 \u0648\u062a\u0648\u062c\u064a\u0647 \u0627\u0644\u062d\u0631\u0641\u0627\u0621 \u0642\u0633\u0631\u0627 \u0646\u062d\u0648 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0629 \u0633\u064a\u0626\u0629 \u0627\u0644\u0630\u0643\u0631 mybiat \u0648\u0627\u0644\u062a...
+2024-11-24 22:51:07,452 - INFO - Post 26 collected: \u0639\u0646\u062f\u064a réclamation de paiement en double par carte bancaire  \u0645\u0639\u062f\u064a\u0647\u0627 \u0645\u0646 12 \u0633\u0628\u062a\u0645\u0628\u0631 \u062a\u0648\u0629 \u0648\u0635\u0644\u0646\u0627 \u0634...
+2024-11-24 22:51:07,462 - INFO - Post 27 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:51:07,474 - INFO - Post 28 collected: Bonjour, je voulais savoir svp si je peux retirer de l argent de mon compte épargne dans n...
+2024-11-24 22:51:07,485 - INFO - Post 29 collected: L’application MyBIAT ne fonctionne pas depuis hier après-midi le 9/11
+Juste une page blanc...
+2024-11-24 22:51:07,496 - INFO - Post 30 collected: Bonjour, 
+L'option envoi de réclamation n'est pas fonctionnelle sur l'application. Est-ce ...
+2024-11-24 22:51:07,533 - INFO - Added 5 new posts. Total: 16
+2024-11-24 22:51:09,555 - INFO - Found 41 posts.
+2024-11-24 22:51:09,833 - INFO - Post 30 collected: Bonjour, 
+L'option envoi de réclamation n'est pas fonctionnelle sur l'application. Est-ce ...
+2024-11-24 22:51:09,841 - INFO - Post 31 collected: Chers Clients,
+Engagés à vous offrir une expérience digitale optimale grâce à vos feedback...
+2024-11-24 22:51:09,851 - INFO - Post 32 collected: My Biat a envoyé un sondage d'évaluation par mail, mais le lien qui figure dans le mail ne...
+2024-11-24 22:51:09,878 - INFO - Post 35 collected: Salem 
+Besoin d'explications svp.
+Je n'ai pas effectué aucune action avec ma carte...
+2024-11-24 22:51:09,934 - INFO - Added 3 new posts. Total: 19
+2024-11-24 22:51:12,005 - INFO - Found 43 posts.
+2024-11-24 22:51:12,548 - INFO - Post 39 collected: Bonsoir, la validite' de ma carte bancaire BIAT se termine la fin de novembre, quelles son...
+2024-11-24 22:51:12,587 - INFO - Post 41 collected: Bonsoir  j ai fait un versement dans le distributeur de l espace libre,  en vérifiant dans...
+2024-11-24 22:51:12,617 - INFO - Added 2 new posts. Total: 21
+2024-11-24 22:51:14,639 - INFO - Found 46 posts.
+2024-11-24 22:51:15,021 - INFO - Post 41 collected: Bonsoir  j ai fait un versement dans le distributeur de l espace libre,  en vérifiant dans...
+2024-11-24 22:51:15,048 - INFO - Post 44 collected: Bonjour jai eu un problème lors de ma reconnexion sur l’application, le message en haut s’...
+2024-11-24 22:51:15,068 - INFO - Added 1 new posts. Total: 22
+2024-11-24 22:51:17,086 - INFO - Found 49 posts.
+2024-11-24 22:51:17,496 - INFO - Post 44 collected: Bonjour jai eu un problème lors de ma reconnexion sur l’application, le message en haut s’...
+2024-11-24 22:51:17,506 - INFO - Post 45 collected: Bonsoir, j’arrive plus à me connecter sur biatnet depuis quelques temps.. ca ne marche plu...
+2024-11-24 22:51:17,516 - INFO - Post 46 collected: Souvent on critique les services BIAT mais ça nous n'empêche pas parfois de dire merci a c...
+2024-11-24 22:51:17,544 - INFO - Added 2 new posts. Total: 24
+2024-11-24 22:51:19,574 - INFO - Found 52 posts.
+2024-11-24 22:51:20,088 - INFO - Post 46 collected: Souvent on critique les services BIAT mais ça nous n'empêche pas parfois de dire merci a c...
+2024-11-24 22:51:20,107 - INFO - Post 48 collected: Bonjour, je veux savoir pourquoi, lorsque je fais un retrait à un distributeur et que j'ou...
+2024-11-24 22:51:20,118 - INFO - Post 49 collected: Bonjour,
+Est-ce qu'il y a une problème sur l'application ?
+J'ai fais un virement vers un a...
+2024-11-24 22:51:20,126 - INFO - Post 50 collected: J'ai essayé d'acheter un billet le 1er jour est échoué et j ai tenté une deuxième fois un ...
+2024-11-24 22:51:20,146 - INFO - Added 3 new posts. Total: 27
+2024-11-24 22:51:22,190 - INFO - Found 59 posts.
+2024-11-24 22:51:22,615 - INFO - Post 49 collected: Bonjour,
+Est-ce qu'il y a une problème sur l'application ?
+J'ai fais un virement vers un a...
+2024-11-24 22:51:22,623 - INFO - Post 50 collected: J'ai essayé d'acheter un billet le 1er jour est échoué et j ai tenté une deuxième fois un ...
+2024-11-24 22:51:22,632 - INFO - Post 51 collected: Bellehi carte classic najem nejbed biha mel dab w ma najamch n5aless fi tpe malgré 3and so...
+2024-11-24 22:51:22,640 - INFO - Post 52 collected: on fait comment pour télécharger l'assurance voyage le lien n'est plus disponible ni sur l...
+2024-11-24 22:51:22,657 - INFO - Post 54 collected: Bonsoir
+Fama mochkla fil les cartes biat lyoum ? Manajmch nejbed à l’étranger ni ma famill...
+2024-11-24 22:51:22,666 - INFO - Post 55 collected: Je n'arrive pas à faire un virement ?????
+Pas de SMS en vue.
+Est-ce que quelqu'un a le mêm...
+2024-11-24 22:51:22,674 - INFO - Post 56 collected: Pourquoi le paiement Facture STEG/SONED disponible sur mybiat mobile et pas dans la versio...
+2024-11-24 22:51:22,699 - INFO - Added 5 new posts. Total: 32
+2024-11-24 22:51:24,724 - INFO - Found 61 posts.
+2024-11-24 22:51:25,348 - INFO - Post 54 collected: Bonsoir
+Fama mochkla fil les cartes biat lyoum ? Manajmch nejbed à l’étranger ni ma famill...
+2024-11-24 22:51:25,357 - INFO - Post 55 collected: Je n'arrive pas à faire un virement ?????
+Pas de SMS en vue.
+Est-ce que quelqu'un a le mêm...
+2024-11-24 22:51:25,372 - INFO - Post 56 collected: Pourquoi le paiement Facture STEG/SONED disponible sur mybiat mobile et pas dans la versio...
+2024-11-24 22:51:25,381 - INFO - Post 57 collected: Bonjour l'application me demande de faire la mise à jour. Dés que j'appui elle me dirige v...
+2024-11-24 22:51:25,487 - INFO - Added 1 new posts. Total: 33
+2024-11-24 22:51:27,515 - INFO - Found 69 posts.
+2024-11-24 22:51:28,129 - INFO - Post 62 collected: J ai essayé hier de recharger ma ligne téléphonique via l application mybiat .
+L opération...
+2024-11-24 22:51:28,138 - INFO - Post 63 collected: Svp c'est urgent , si une carte a été désactivée par la banque et la situation a été régul...
+2024-11-24 22:51:28,190 - INFO - Added 2 new posts. Total: 35
+2024-11-24 22:51:30,216 - INFO - Found 77 posts.
+2024-11-24 22:51:30,813 - INFO - Post 70 collected: Bonsoir, 
+J'ai un problème d'accès à MyBiat, bien que j'ai réinitialisé le mot de passe, l...
+2024-11-24 22:51:30,872 - INFO - Added 1 new posts. Total: 36
+2024-11-24 22:51:32,901 - INFO - Found 79 posts.
+2024-11-24 22:51:33,735 - INFO - Post 73 collected: Bonjour a chaque fois où je veux accéder à l application merci de vérifier vos paramètres ...
+2024-11-24 22:51:33,752 - INFO - Post 75 collected: Bonjour.
+J'ai passé une demande de chéquier le 19 octobre. Hier, en consultant la section ...
+2024-11-24 22:51:33,761 - INFO - Post 76 collected: Bonjour à tous.  J'ai constaté une erreur de mon solde bancaire et j'ai envoyé un message ...
+2024-11-24 22:51:33,791 - INFO - Added 3 new posts. Total: 39
+2024-11-24 22:51:35,824 - INFO - Found 85 posts.
+2024-11-24 22:51:36,809 - INFO - Post 79 collected: J’ai reçu un virement depuis vendredi et ma carte reste désactivée ils m’ont dit que la ré...
+2024-11-24 22:51:36,827 - INFO - Post 81 collected: Until when, ??
+ 
+Even the website not working 
+This is not expected!...
+2024-11-24 22:51:36,837 - INFO - Post 82 collected: BIAT 
+Lyoum jit nejbef fi flouse min distributeur  , il opération mkemlitch mais la transa...
+2024-11-24 22:51:36,864 - INFO - Added 3 new posts. Total: 42
+2024-11-24 22:51:38,896 - INFO - Found 92 posts.
+2024-11-24 22:51:39,775 - INFO - Post 85 collected: Bonjour 
+J'ai utilisé #MyBIAT  hier pour payer la facture de la STEG, après confirmation d...
+2024-11-24 22:51:39,783 - INFO - Post 86 collected: je suis résident à l'étranger et j'ai fait une demande de changer le numéro associé à la a...
+2024-11-24 22:51:39,793 - INFO - Post 87 collected: Salut 
+Najm njbed montant kbir m agence biat okhra f wilya Okhra mouch agence eli hala fih...
+2024-11-24 22:51:39,837 - INFO - Added 3 new posts. Total: 45
+2024-11-24 22:51:41,863 - INFO - Found 97 posts.
+2024-11-24 22:51:42,663 - INFO - Post 91 collected: Depuis les dernières mises à jour de l’application MyBiat, il y a un problème au niveau de...
+2024-11-24 22:51:42,679 - INFO - Post 93 collected: Une fois de plus, mybiat ne fonctionne pas. Chaque fois qu' il y a une nouvelle mise à jou...
+2024-11-24 22:51:42,688 - INFO - Post 94 collected: Bonjour, application non fonctionnelle !!?? Jusqu'à quand votre large Clientèle souffre du...
+2024-11-24 22:51:42,714 - INFO - Added 3 new posts. Total: 48
+2024-11-24 22:51:44,739 - INFO - Found 102 posts.
+2024-11-24 22:51:45,662 - INFO - Post 93 collected: Une fois de plus, mybiat ne fonctionne pas. Chaque fois qu' il y a une nouvelle mise à jou...
+2024-11-24 22:51:45,671 - INFO - Post 94 collected: Bonjour, application non fonctionnelle !!?? Jusqu'à quand votre large Clientèle souffre du...
+2024-11-24 22:51:45,748 - INFO - Added 0 new posts. Total: 48
+2024-11-24 22:51:47,779 - INFO - Found 109 posts.
+2024-11-24 22:51:48,753 - INFO - Post 100 collected: Si vous plaît chkoun yajam ijewebni , comment vous donnez un accord de principe pour un cr...
+2024-11-24 22:51:48,780 - INFO - Post 103 collected: L'application mybiat est non fonctionnelle depuis mon dernier mis à jour demandé !!
+J'ai b...
+2024-11-24 22:51:48,789 - INFO - Post 104 collected: Belahi bech neseal 3la flous projet à la venir 9adech t7ebelhom wa9t bech yetsabo fil comp...
+2024-11-24 22:51:48,834 - INFO - Added 3 new posts. Total: 51
+2024-11-24 22:51:50,847 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:51:50,874 - INFO - Saved 51 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-24 22:51:50,874 - INFO - Scraping and saving complete.
+2024-11-24 22:53:03,179 - INFO - Found 11 posts.
+2024-11-24 22:53:03,201 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:53:03,283 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:53:05,336 - INFO - Found 14 posts.
+2024-11-24 22:53:05,561 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLACEMENT A TERME en devisesde 3 mois CHEZ ...
+2024-11-24 22:53:05,570 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacement à l'étranger et j'avais plus de solde ...
+2024-11-24 22:53:05,579 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet après-midi ?????
+Bloquage au niveau de la c...
+2024-11-24 22:53:05,596 - INFO - Added 3 new posts. Total: 4
+2024-11-24 22:53:07,627 - INFO - Found 22 posts.
+2024-11-24 22:53:07,740 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:53:07,749 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:53:07,759 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:53:07,786 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 22:53:07,823 - INFO - Added 4 new posts. Total: 8
+2024-11-24 22:53:09,851 - INFO - Found 29 posts.
+2024-11-24 22:53:10,007 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 22:53:10,015 - INFO - Post 19 collected: Bonjour, 
+J'ai un probleme au niveau de l app; depuis 2 jours je tente de faire un viremen...
+2024-11-24 22:53:10,026 - INFO - Post 20 collected: \u062d\u062a\u0649 \u0628\u0627\u0634 \u0627\u062a\u0642\u0627\u0628\u0644 \u0627\u064a \u0645\u0633\u0624\u0644 \u0641\u064a \u0627\u0644\u0633\u064a\u0627\u062c \u0628\u0627\u0634 \u062a\u0637\u0631\u062d \u0645\u0634\u0643\u0644\u062a\u0643 \u0645\u0627 \u064a\u062e\u0644\u0648\u0643\u0634 \u0627\u0644\u0628\u0646\u0648\u0643 \u0627\u0644\u0643\u0644 \u062a\u062d\u0627\u0648\u0644 \u0627\u062a\u0634\u0641\u0648\u0644 \u062d\u0627\u0644 \u0644\u0644...
+2024-11-24 22:53:10,044 - INFO - Post 22 collected: Bonjour, 
+Besoin d'effectuer un paiement en ligne mais je suis à l'étranger et je ne reçoi...
+2024-11-24 22:53:10,105 - INFO - Added 3 new posts. Total: 11
+2024-11-24 22:53:12,127 - INFO - Found 34 posts.
+2024-11-24 22:53:12,355 - INFO - Post 25 collected: \u062a\u0628\u0639\u0627 \u0644\u062a\u0648\u0642\u0641 biatnet \u0639\u0646 \u0625\u0633\u062f\u0627\u0621 \u0627\u0644\u062e\u062f\u0645\u0629 \u0648\u062a\u0648\u062c\u064a\u0647 \u0627\u0644\u062d\u0631\u0641\u0627\u0621 \u0642\u0633\u0631\u0627 \u0646\u062d\u0648 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0629 \u0633\u064a\u0626\u0629 \u0627\u0644\u0630\u0643\u0631 mybiat \u0648\u0627\u0644\u062a...
+2024-11-24 22:53:12,364 - INFO - Post 26 collected: \u0639\u0646\u062f\u064a réclamation de paiement en double par carte bancaire  \u0645\u0639\u062f\u064a\u0647\u0627 \u0645\u0646 12 \u0633\u0628\u062a\u0645\u0628\u0631 \u062a\u0648\u0629 \u0648\u0635\u0644\u0646\u0627 \u0634...
+2024-11-24 22:53:12,373 - INFO - Post 27 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:53:12,382 - INFO - Post 28 collected: Bonjour, je voulais savoir svp si je peux retirer de l argent de mon compte épargne dans n...
+2024-11-24 22:53:12,391 - INFO - Post 29 collected: L’application MyBIAT ne fonctionne pas depuis hier après-midi le 9/11
+Juste une page blanc...
+2024-11-24 22:53:12,400 - INFO - Post 30 collected: Bonjour, 
+L'option envoi de réclamation n'est pas fonctionnelle sur l'application. Est-ce ...
+2024-11-24 22:53:12,436 - INFO - Added 5 new posts. Total: 16
+2024-11-24 22:53:14,463 - INFO - Found 41 posts.
+2024-11-24 22:53:14,731 - INFO - Post 30 collected: Bonjour, 
+L'option envoi de réclamation n'est pas fonctionnelle sur l'application. Est-ce ...
+2024-11-24 22:53:14,740 - INFO - Post 31 collected: Chers Clients,
+Engagés à vous offrir une expérience digitale optimale grâce à vos feedback...
+2024-11-24 22:53:14,749 - INFO - Post 32 collected: My Biat a envoyé un sondage d'évaluation par mail, mais le lien qui figure dans le mail ne...
+2024-11-24 22:53:14,775 - INFO - Post 35 collected: Salem 
+Besoin d'explications svp.
+Je n'ai pas effectué aucune action avec ma carte...
+2024-11-24 22:53:14,830 - INFO - Added 3 new posts. Total: 19
+2024-11-24 22:53:16,860 - INFO - Found 47 posts.
+2024-11-24 22:53:17,208 - INFO - Post 39 collected: Bonsoir, la validite' de ma carte bancaire BIAT se termine la fin de novembre, quelles son...
+2024-11-24 22:53:17,226 - INFO - Post 41 collected: Bonsoir  j ai fait un versement dans le distributeur de l espace libre,  en vérifiant dans...
+2024-11-24 22:53:17,280 - INFO - Added 2 new posts. Total: 21
+2024-11-24 22:53:19,311 - INFO - Found 52 posts.
+2024-11-24 22:53:19,796 - INFO - Post 44 collected: Bonjour jai eu un problème lors de ma reconnexion sur l’application, le message en haut s’...
+2024-11-24 22:53:19,805 - INFO - Post 45 collected: Bonsoir, j’arrive plus à me connecter sur biatnet depuis quelques temps.. ca ne marche plu...
+2024-11-24 22:53:19,814 - INFO - Post 46 collected: Souvent on critique les services BIAT mais ça nous n'empêche pas parfois de dire merci a c...
+2024-11-24 22:53:19,866 - INFO - Added 3 new posts. Total: 24
+2024-11-24 22:53:21,890 - INFO - Found 61 posts.
+2024-11-24 22:53:22,442 - INFO - Post 49 collected: Bonjour,
+Est-ce qu'il y a une problème sur l'application ?
+J'ai fais un virement vers un a...
+2024-11-24 22:53:22,451 - INFO - Post 50 collected: J'ai essayé d'acheter un billet le 1er jour est échoué et j ai tenté une deuxième fois un ...
+2024-11-24 22:53:22,460 - INFO - Post 51 collected: Bellehi carte classic najem nejbed biha mel dab w ma najamch n5aless fi tpe malgré 3and so...
+2024-11-24 22:53:22,469 - INFO - Post 52 collected: on fait comment pour télécharger l'assurance voyage le lien n'est plus disponible ni sur l...
+2024-11-24 22:53:22,489 - INFO - Post 54 collected: Bonsoir
+Fama mochkla fil les cartes biat lyoum ? Manajmch nejbed à l’étranger ni ma famill...
+2024-11-24 22:53:22,498 - INFO - Post 55 collected: Je n'arrive pas à faire un virement ?????
+Pas de SMS en vue.
+Est-ce que quelqu'un a le mêm...
+2024-11-24 22:53:22,507 - INFO - Post 56 collected: Pourquoi le paiement Facture STEG/SONED disponible sur mybiat mobile et pas dans la versio...
+2024-11-24 22:53:22,551 - INFO - Added 7 new posts. Total: 31
+2024-11-24 22:53:24,578 - INFO - Found 71 posts.
+2024-11-24 22:53:25,123 - INFO - Post 62 collected: J ai essayé hier de recharger ma ligne téléphonique via l application mybiat .
+L opération...
+2024-11-24 22:53:25,133 - INFO - Post 63 collected: Svp c'est urgent , si une carte a été désactivée par la banque et la situation a été régul...
+2024-11-24 22:53:25,205 - INFO - Added 2 new posts. Total: 33
+2024-11-24 22:53:27,252 - INFO - Found 73 posts.
+2024-11-24 22:53:28,029 - INFO - Post 70 collected: Bonsoir, 
+J'ai un problème d'accès à MyBiat, bien que j'ai réinitialisé le mot de passe, l...
+2024-11-24 22:53:28,055 - INFO - Added 1 new posts. Total: 34
+2024-11-24 22:53:30,081 - INFO - Found 83 posts.
+2024-11-24 22:53:30,721 - INFO - Post 73 collected: Bonjour a chaque fois où je veux accéder à l application merci de vérifier vos paramètres ...
+2024-11-24 22:53:30,738 - INFO - Post 75 collected: Bonjour.
+J'ai passé une demande de chéquier le 19 octobre. Hier, en consultant la section ...
+2024-11-24 22:53:30,747 - INFO - Post 76 collected: Bonjour à tous.  J'ai constaté une erreur de mon solde bancaire et j'ai envoyé un message ...
+2024-11-24 22:53:30,809 - INFO - Added 3 new posts. Total: 37
+2024-11-24 22:53:32,837 - INFO - Found 89 posts.
+2024-11-24 22:53:33,543 - INFO - Post 79 collected: J’ai reçu un virement depuis vendredi et ma carte reste désactivée ils m’ont dit que la ré...
+2024-11-24 22:53:33,560 - INFO - Post 81 collected: Until when, ??
+ 
+Even the website not working 
+This is not expected!...
+2024-11-24 22:53:33,569 - INFO - Post 82 collected: BIAT 
+Lyoum jit nejbef fi flouse min distributeur  , il opération mkemlitch mais la transa...
+2024-11-24 22:53:33,628 - INFO - Added 3 new posts. Total: 40
+2024-11-24 22:53:35,680 - INFO - Found 91 posts.
+2024-11-24 22:53:36,629 - INFO - Post 85 collected: Bonjour 
+J'ai utilisé #MyBIAT  hier pour payer la facture de la STEG, après confirmation d...
+2024-11-24 22:53:36,639 - INFO - Post 86 collected: je suis résident à l'étranger et j'ai fait une demande de changer le numéro associé à la a...
+2024-11-24 22:53:36,648 - INFO - Post 87 collected: Salut 
+Najm njbed montant kbir m agence biat okhra f wilya Okhra mouch agence eli hala fih...
+2024-11-24 22:53:36,685 - INFO - Added 3 new posts. Total: 43
+2024-11-24 22:53:38,721 - INFO - Found 100 posts.
+2024-11-24 22:53:39,650 - INFO - Post 91 collected: Depuis les dernières mises à jour de l’application MyBiat, il y a un problème au niveau de...
+2024-11-24 22:53:39,667 - INFO - Post 93 collected: Une fois de plus, mybiat ne fonctionne pas. Chaque fois qu' il y a une nouvelle mise à jou...
+2024-11-24 22:53:39,676 - INFO - Post 94 collected: Bonjour, application non fonctionnelle !!?? Jusqu'à quand votre large Clientèle souffre du...
+2024-11-24 22:53:39,730 - INFO - Added 3 new posts. Total: 46
+2024-11-24 22:53:41,851 - INFO - Found 109 posts.
+2024-11-24 22:53:42,803 - INFO - Post 100 collected: Si vous plaît chkoun yajam ijewebni , comment vous donnez un accord de principe pour un cr...
+2024-11-24 22:53:42,829 - INFO - Post 103 collected: L'application mybiat est non fonctionnelle depuis mon dernier mis à jour demandé !!
+J'ai b...
+2024-11-24 22:53:42,837 - INFO - Post 104 collected: Belahi bech neseal 3la flous projet à la venir 9adech t7ebelhom wa9t bech yetsabo fil comp...
+2024-11-24 22:53:42,880 - INFO - Added 3 new posts. Total: 49
+2024-11-24 22:53:44,909 - INFO - Found 116 posts.
+2024-11-24 22:53:45,860 - INFO - Post 106 collected: \u0645\u0627 \u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0641\u064a \u0627\u0644\u062a\u062d\u0648\u064a\u0644 \u0645\u0646 \u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u064a \u0627\u0644\u0628\u0637\u0627\u0642\u0629 !\u061f...
+2024-11-24 22:53:45,869 - INFO - Post 107 collected: Salam jbedt flous  mil distributeur t9asou mil compte wmkharjouch chnwa na3ml w9adeh tekho...
+2024-11-24 22:53:45,887 - INFO - Post 109 collected: Bonjour,
+J’ai résilié mon contrat du projet Avenir et j’ai régularisé ma situation fiscale...
+2024-11-24 22:53:45,949 - INFO - Added 3 new posts. Total: 52
+2024-11-24 22:53:47,995 - INFO - Found 120 posts.
+2024-11-24 22:53:49,048 - INFO - Post 112 collected: 3malt recharge en ligne orange yejik impossible t3wed Mara o5ra yejik impossible Mara o5ra...
+2024-11-24 22:53:49,057 - INFO - Post 113 collected: Pourquoi le recharge de carte est rejeté ?...
+2024-11-24 22:53:49,066 - INFO - Post 114 collected: \u0628\u0627\u0644\u0644\u0647 \u0634\u0646\u0648\u0645\u0627 \u0627\u0644\u0642\u0635\u0627\u0635\u0627\u062a \u0647\u0627\u0630\u0645.  \u0623\u0648\u0644 \u0645\u0631\u0647 \u0646\u0631\u0627\u0647\u0645...
+2024-11-24 22:53:49,075 - INFO - Post 115 collected: J'ai l'affichage de deux cartes TEMPO sur l'application avec deux numéros différents est c...
+2024-11-24 22:53:49,118 - INFO - Added 4 new posts. Total: 56
+2024-11-24 22:53:51,141 - INFO - Found 124 posts.
+2024-11-24 22:53:52,375 - INFO - Post 118 collected: Bonjour pourquoi je ne peux pas commander de chéquier sur MyBIAT mon compte est dans le po...
+2024-11-24 22:53:52,385 - INFO - Post 119 collected: Quels sont les horaires d'ouverture de la BIAT? Mettez à jour les données svp...
+2024-11-24 22:53:52,402 - INFO - Post 121 collected: Ça fait qq jrs le code otp pour les paiements par carte bancaire n'est pas fourni pour con...
+2024-11-24 22:53:52,411 - INFO - Post 122 collected: bonjour yakhi solde carte tempo yetbadel kif matehebou entom nehar elfouk w nehar louta w ...
+2024-11-24 22:53:52,428 - INFO - Added 4 new posts. Total: 60
+2024-11-24 22:53:54,457 - INFO - Found 133 posts.
+2024-11-24 22:53:55,803 - INFO - Post 124 collected: \u0647\u0644 \u0627\u0644\u0641\u0635\u0644 \u0627\u0644\u062c\u062f\u064a\u062f \u0639\u062f\u062f412 \u0645\u0646 \u0627\u0644\u0645\u062c\u0644\u0629 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u064a\u0634\u0645\u0644 \u0643\u0644 \u0627\u0644\u0628\u0646\u0648\u0643 \u0639\u0644\u0649 \u062d\u062f \u0627\u0644\u0633\u0648\u0627\u0621!...
+2024-11-24 22:53:55,811 - INFO - Post 125 collected: c'est quoi ce délire 3al sbe7 ?...
+2024-11-24 22:53:55,821 - INFO - Post 126 collected: Voici une version corrigée de votre phrase :
+"Comment savoir si le taux est fixe ou variab...
+2024-11-24 22:53:55,829 - INFO - Post 127 collected: Bonjour, je suis à l’étranger, so 3amin nedfa3 fi pack tounesna compte en $ et un autre pa...
+2024-11-24 22:53:55,839 - INFO - Post 128 collected: Est-il possible d'effectuer des virements vers une carte edinar de la poste à partir de l'...
+2024-11-24 22:53:55,884 - INFO - Added 5 new posts. Total: 65
+2024-11-24 22:53:57,892 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:53:57,932 - INFO - Saved 65 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-24 22:53:57,932 - INFO - Scraping and saving complete.
+2024-11-24 22:57:23,239 - INFO - Found 7 posts.
+2024-11-24 22:57:23,361 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5aless 4% 3la 1000£? W kif tji tjibed ffi ...
+2024-11-24 22:57:23,385 - ERROR - Error retrieving post data for post 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF658F8E1F5+2972373]
+	(No symbol) [0x00007FF658C255F0]
+	(No symbol) [0x00007FF658AC57FA]
+	(No symbol) [0x00007FF658ACC2CC]
+	(No symbol) [0x00007FF658ACE8FF]
+	(No symbol) [0x00007FF658B5CBB0]
+	(No symbol) [0x00007FF658B3BA7A]
+	(No symbol) [0x00007FF658B5B8CC]
+	(No symbol) [0x00007FF658B3B823]
+	(No symbol) [0x00007FF658B075E8]
+	(No symbol) [0x00007FF658B08751]
+	GetHandleVerifier [0x00007FF658FB47BD+3129501]
+	GetHandleVerifier [0x00007FF659004D00+3458528]
+	GetHandleVerifier [0x00007FF658FFB05D+3418429]
+	GetHandleVerifier [0x00007FF658D8687B+844123]
+	(No symbol) [0x00007FF658C30AFF]
+	(No symbol) [0x00007FF658C2C6D4]
+	(No symbol) [0x00007FF658C2C86D]
+	(No symbol) [0x00007FF658C1BD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-24 22:57:23,406 - INFO - Added 1 new posts. Total: 1
+2024-11-24 22:57:25,588 - INFO - Found 17 posts.
+2024-11-24 22:57:25,638 - INFO - Post 5 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628\u0627\u0634 \u0646\u062c\u0628\u062f \u0627\u0644\u0634\u0647\u0631\u064a\u0629   \u0646\u062f\u062e\u0644 \u0644\u0644\u0628\u0627\u0646\u0643\u0629 \u0648 \u0645\u0627\u064a\u0631\u0627\u0639\u0646...
+2024-11-24 22:57:25,741 - INFO - Added 1 new posts. Total: 2
+2024-11-24 22:57:27,772 - INFO - Found 23 posts.
+2024-11-24 22:57:27,888 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquier non barré?...
+2024-11-24 22:57:27,898 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement pour la première fois à l'aide de l'applic...
+2024-11-24 22:57:27,907 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la loi 412 automatiquement consernant les prê...
+2024-11-24 22:57:27,933 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 \u0645\u0627\u0632\u0627\u0644\u0648 \u0641\u064a\u0647 3 \u0633\u0646\u064a\u0646 \u0648 9 \u0634\u0647\u0648\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0646\u062e\u0644\u0635 8...
+2024-11-24 22:57:28,029 - INFO - Added 4 new posts. Total: 6
+2024-11-24 22:57:30,034 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 22:57:30,064 - INFO - Saved 6 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-24 22:57:30,064 - INFO - Scraping and saving complete.
+2024-11-24 23:31:35,858 - INFO - Found 11 posts.
+2024-11-24 23:31:35,880 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5a...
+2024-11-24 23:31:35,962 - INFO - Added 1 new posts. Total: 1
+2024-11-24 23:31:38,005 - INFO - Found 17 posts.
+2024-11-24 23:31:38,097 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-24 23:31:38,106 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-24 23:31:38,115 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-24 23:31:38,159 - INFO - Added 3 new posts. Total: 4
+2024-11-24 23:31:40,181 - INFO - Found 19 posts.
+2024-11-24 23:31:40,292 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquie...
+2024-11-24 23:31:40,301 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-24 23:31:40,310 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-24 23:31:40,344 - INFO - Added 3 new posts. Total: 7
+2024-11-24 23:31:42,354 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-24 23:31:42,373 - INFO - Saved 7 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-24 23:31:42,373 - INFO - Scraping and saving complete.
+2024-11-25 00:27:37,243 - INFO - Found 11 posts.
+2024-11-25 00:27:37,264 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5a...
+2024-11-25 00:27:37,347 - INFO - Added 1 new posts. Total: 1
+2024-11-25 00:27:39,385 - INFO - Found 17 posts.
+2024-11-25 00:27:39,471 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-25 00:27:39,480 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-25 00:27:39,489 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-25 00:27:39,532 - INFO - Added 3 new posts. Total: 4
+2024-11-25 00:27:41,560 - INFO - Found 22 posts.
+2024-11-25 00:27:41,674 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquie...
+2024-11-25 00:27:41,683 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-25 00:27:41,694 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-25 00:27:41,725 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 ...
+2024-11-25 00:27:41,765 - INFO - Added 4 new posts. Total: 8
+2024-11-25 00:27:43,774 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-25 00:27:43,797 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-25 00:27:43,797 - INFO - Scraping and saving complete.
+2024-11-25 00:31:37,859 - INFO - Found 11 posts.
+2024-11-25 00:31:37,887 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5a...
+2024-11-25 00:31:37,970 - INFO - Added 1 new posts. Total: 1
+2024-11-25 00:31:39,999 - INFO - Found 17 posts.
+2024-11-25 00:31:40,088 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-25 00:31:40,097 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-25 00:31:40,105 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-25 00:31:40,148 - INFO - Added 3 new posts. Total: 4
+2024-11-25 00:31:42,177 - INFO - Found 22 posts.
+2024-11-25 00:31:42,397 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquie...
+2024-11-25 00:31:42,406 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-25 00:31:42,415 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-25 00:31:42,441 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 ...
+2024-11-25 00:31:42,528 - INFO - Added 4 new posts. Total: 8
+2024-11-25 00:31:44,536 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-25 00:31:44,538 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-25 00:31:44,538 - INFO - Scraping and saving complete.
+2024-11-25 01:33:45,423 - INFO - Found 11 posts.
+2024-11-25 01:33:50,536 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 01:33:55,687 - ERROR - Error retrieving post data for post 2: Message: 
+
+2024-11-25 01:34:00,787 - ERROR - Error retrieving post data for post 3: Message: 
+
+2024-11-25 01:34:05,926 - ERROR - Error retrieving post data for post 4: Message: 
+
+2024-11-25 01:34:11,038 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 01:34:16,149 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 01:34:21,285 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 01:34:26,448 - ERROR - Error retrieving post data for post 8: Message: 
+
+2024-11-25 01:34:26,452 - ERROR - Error retrieving post data for post 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF658F8E1F5+2972373]
+	(No symbol) [0x00007FF658C255F0]
+	(No symbol) [0x00007FF658AC57FA]
+	(No symbol) [0x00007FF658ACC2CC]
+	(No symbol) [0x00007FF658ACE8FF]
+	(No symbol) [0x00007FF658B5CBB0]
+	(No symbol) [0x00007FF658B3BA7A]
+	(No symbol) [0x00007FF658B5B8CC]
+	(No symbol) [0x00007FF658B3B823]
+	(No symbol) [0x00007FF658B075E8]
+	(No symbol) [0x00007FF658B08751]
+	GetHandleVerifier [0x00007FF658FB47BD+3129501]
+	GetHandleVerifier [0x00007FF659004D00+3458528]
+	GetHandleVerifier [0x00007FF658FFB05D+3418429]
+	GetHandleVerifier [0x00007FF658D8687B+844123]
+	(No symbol) [0x00007FF658C30AFF]
+	(No symbol) [0x00007FF658C2C6D4]
+	(No symbol) [0x00007FF658C2C86D]
+	(No symbol) [0x00007FF658C1BD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-25 01:34:31,570 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 01:34:36,685 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 01:34:36,685 - INFO - Added 0 new posts. Total: 0
+2024-11-25 01:34:38,715 - INFO - Found 17 posts.
+2024-11-25 01:34:43,881 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 01:34:49,011 - ERROR - Error retrieving post data for post 2: Message: 
+
+2024-11-25 01:34:54,155 - ERROR - Error retrieving post data for post 3: Message: 
+
+2024-11-25 01:34:59,252 - ERROR - Error retrieving post data for post 4: Message: 
+
+2024-11-25 01:35:04,512 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 01:35:09,738 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 01:35:15,017 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 01:35:20,170 - ERROR - Error retrieving post data for post 8: Message: 
+
+2024-11-25 01:35:25,374 - ERROR - Error retrieving post data for post 9: Message: 
+
+2024-11-25 01:35:30,539 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 01:35:35,808 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 01:35:41,819 - ERROR - Error retrieving post data for post 12: Message: 
+
+2024-11-25 01:35:47,076 - ERROR - Error retrieving post data for post 13: Message: 
+
+2024-11-25 01:35:52,332 - ERROR - Error retrieving post data for post 14: Message: 
+
+2024-11-25 01:35:57,513 - ERROR - Error retrieving post data for post 15: Message: 
+
+2024-11-25 01:36:02,646 - ERROR - Error retrieving post data for post 16: Message: 
+
+2024-11-25 01:36:07,856 - ERROR - Error retrieving post data for post 17: Message: 
+
+2024-11-25 01:36:07,856 - INFO - Added 0 new posts. Total: 0
+2024-11-25 01:36:10,398 - INFO - Found 26 posts.
+2024-11-25 01:36:16,150 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 01:36:21,314 - ERROR - Error retrieving post data for post 2: Message: 
+
+2024-11-25 01:36:26,498 - ERROR - Error retrieving post data for post 3: Message: 
+
+2024-11-25 01:36:31,687 - ERROR - Error retrieving post data for post 4: Message: 
+
+2024-11-25 01:36:36,832 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 01:36:41,973 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 01:36:47,132 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 01:36:52,286 - ERROR - Error retrieving post data for post 8: Message: 
+
+2024-11-25 01:36:57,426 - ERROR - Error retrieving post data for post 9: Message: 
+
+2024-11-25 01:37:02,727 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 01:37:07,921 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 01:37:13,095 - ERROR - Error retrieving post data for post 12: Message: 
+
+2024-11-25 01:37:18,241 - ERROR - Error retrieving post data for post 13: Message: 
+
+2024-11-25 01:37:23,393 - ERROR - Error retrieving post data for post 14: Message: 
+
+2024-11-25 01:37:28,589 - ERROR - Error retrieving post data for post 15: Message: 
+
+2024-11-25 01:37:33,765 - ERROR - Error retrieving post data for post 16: Message: 
+
+2024-11-25 01:37:38,929 - ERROR - Error retrieving post data for post 17: Message: 
+
+2024-11-25 01:37:44,085 - ERROR - Error retrieving post data for post 18: Message: 
+
+2024-11-25 01:37:49,252 - ERROR - Error retrieving post data for post 19: Message: 
+
+2024-11-25 01:37:54,402 - ERROR - Error retrieving post data for post 20: Message: 
+
+2024-11-25 01:37:59,531 - ERROR - Error retrieving post data for post 21: Message: 
+
+2024-11-25 01:38:04,661 - ERROR - Error retrieving post data for post 22: Message: 
+
+2024-11-25 01:38:09,860 - ERROR - Error retrieving post data for post 23: Message: 
+
+2024-11-25 01:38:09,866 - ERROR - Error retrieving post data for post 24: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF658F8E1F5+2972373]
+	(No symbol) [0x00007FF658C255F0]
+	(No symbol) [0x00007FF658AC57FA]
+	(No symbol) [0x00007FF658ACC2CC]
+	(No symbol) [0x00007FF658ACE8FF]
+	(No symbol) [0x00007FF658B5CBB0]
+	(No symbol) [0x00007FF658B3BA7A]
+	(No symbol) [0x00007FF658B5B8CC]
+	(No symbol) [0x00007FF658B3B823]
+	(No symbol) [0x00007FF658B075E8]
+	(No symbol) [0x00007FF658B08751]
+	GetHandleVerifier [0x00007FF658FB47BD+3129501]
+	GetHandleVerifier [0x00007FF659004D00+3458528]
+	GetHandleVerifier [0x00007FF658FFB05D+3418429]
+	GetHandleVerifier [0x00007FF658D8687B+844123]
+	(No symbol) [0x00007FF658C30AFF]
+	(No symbol) [0x00007FF658C2C6D4]
+	(No symbol) [0x00007FF658C2C86D]
+	(No symbol) [0x00007FF658C1BD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-25 01:38:15,038 - ERROR - Error retrieving post data for post 25: Message: 
+
+2024-11-25 01:38:20,183 - ERROR - Error retrieving post data for post 26: Message: 
+
+2024-11-25 01:38:20,183 - INFO - No new posts found. Stopping scrolling.
+2024-11-25 01:38:20,183 - WARNING - No posts collected.
+2024-11-25 01:44:48,574 - INFO - Found 7 posts.
+2024-11-25 01:44:53,704 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 01:44:53,758 - INFO - Collected 2 comments for post 2
+2024-11-25 01:44:53,759 - INFO - Post 2 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5a...
+2024-11-25 01:44:53,807 - INFO - Collected 3 comments for post 3
+2024-11-25 01:44:53,807 - INFO - Post 3 skipped due to insufficient text.
+2024-11-25 01:44:53,835 - INFO - Collected 1 comments for post 4
+2024-11-25 01:44:53,836 - INFO - Post 4 skipped due to insufficient text.
+2024-11-25 01:44:58,975 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 01:45:04,112 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 01:45:09,298 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 01:45:09,298 - INFO - Added 1 new posts. Total: 1
+2024-11-25 01:45:11,334 - INFO - Found 17 posts.
+2024-11-25 01:45:16,433 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 01:45:21,536 - ERROR - Error retrieving post data for post 2: Message: 
+
+2024-11-25 01:45:26,640 - ERROR - Error retrieving post data for post 3: Message: 
+
+2024-11-25 01:45:31,750 - ERROR - Error retrieving post data for post 4: Message: 
+
+2024-11-25 01:45:36,876 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 01:45:36,910 - INFO - Collected 1 comments for post 6
+2024-11-25 01:45:36,910 - INFO - Post 6 skipped due to insufficient text.
+2024-11-25 01:45:36,937 - INFO - Collected 1 comments for post 7
+2024-11-25 01:45:36,937 - INFO - Post 7 skipped due to insufficient text.
+2024-11-25 01:45:36,954 - INFO - Collected 0 comments for post 8
+2024-11-25 01:45:36,954 - INFO - Post 8 skipped due to insufficient text.
+2024-11-25 01:45:36,981 - INFO - Collected 1 comments for post 9
+2024-11-25 01:45:36,981 - INFO - Post 9 skipped due to insufficient text.
+2024-11-25 01:45:37,018 - INFO - Collected 2 comments for post 10
+2024-11-25 01:45:37,018 - INFO - Post 10 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-25 01:45:37,064 - INFO - Collected 3 comments for post 11
+2024-11-25 01:45:37,064 - INFO - Post 11 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-25 01:45:37,150 - INFO - Collected 7 comments for post 12
+2024-11-25 01:45:37,150 - INFO - Post 12 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-25 01:45:42,272 - ERROR - Error retrieving post data for post 13: Message: 
+
+2024-11-25 01:45:47,392 - ERROR - Error retrieving post data for post 14: Message: 
+
+2024-11-25 01:45:52,494 - ERROR - Error retrieving post data for post 15: Message: 
+
+2024-11-25 01:45:57,630 - ERROR - Error retrieving post data for post 16: Message: 
+
+2024-11-25 01:46:02,745 - ERROR - Error retrieving post data for post 17: Message: 
+
+2024-11-25 01:46:02,745 - INFO - Added 3 new posts. Total: 4
+2024-11-25 01:46:04,854 - INFO - Found 22 posts.
+2024-11-25 01:46:10,025 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 01:46:15,181 - ERROR - Error retrieving post data for post 2: Message: 
+
+2024-11-25 01:46:20,293 - ERROR - Error retrieving post data for post 3: Message: 
+
+2024-11-25 01:46:25,400 - ERROR - Error retrieving post data for post 4: Message: 
+
+2024-11-25 01:46:30,510 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 01:46:35,661 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 01:46:40,792 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 01:46:45,912 - ERROR - Error retrieving post data for post 8: Message: 
+
+2024-11-25 01:46:51,027 - ERROR - Error retrieving post data for post 9: Message: 
+
+2024-11-25 01:46:56,128 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 01:47:01,261 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 01:47:06,387 - ERROR - Error retrieving post data for post 12: Message: 
+
+2024-11-25 01:47:06,421 - INFO - Collected 2 comments for post 13
+2024-11-25 01:47:06,421 - INFO - Post 13 collected: Bonjour. Il n'est plus possible d'avoir un chéquie...
+2024-11-25 01:47:06,507 - INFO - Collected 7 comments for post 14
+2024-11-25 01:47:06,507 - INFO - Post 14 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-25 01:47:06,541 - INFO - Collected 2 comments for post 15
+2024-11-25 01:47:06,541 - INFO - Post 15 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-25 01:47:06,575 - INFO - Collected 2 comments for post 16
+2024-11-25 01:47:06,575 - INFO - Post 16 skipped due to insufficient text.
+2024-11-25 01:47:06,609 - INFO - Collected 2 comments for post 17
+2024-11-25 01:47:06,610 - INFO - Post 17 skipped due to insufficient text.
+2024-11-25 01:47:06,663 - INFO - Collected 3 comments for post 18
+2024-11-25 01:47:06,664 - INFO - Post 18 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 ...
+2024-11-25 01:47:11,814 - ERROR - Error retrieving post data for post 19: Message: 
+
+2024-11-25 01:47:16,934 - ERROR - Error retrieving post data for post 20: Message: 
+
+2024-11-25 01:47:22,048 - ERROR - Error retrieving post data for post 21: Message: 
+
+2024-11-25 01:47:27,158 - ERROR - Error retrieving post data for post 22: Message: 
+
+2024-11-25 01:47:27,158 - INFO - Added 4 new posts. Total: 8
+2024-11-25 01:47:29,169 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-25 01:47:29,192 - INFO - Saved 8 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-25 01:47:29,192 - INFO - Scraping and saving complete.
+2024-11-25 16:15:34,643 - INFO - Found 11 posts.
+2024-11-25 16:15:39,803 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 16:15:39,938 - INFO - Collected 5 comments for post 2
+2024-11-25 16:15:39,938 - INFO - Post 2 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-25 16:15:39,964 - INFO - Collected 1 comments for post 3
+2024-11-25 16:15:39,964 - INFO - Post 3 skipped due to insufficient text.
+2024-11-25 16:15:40,009 - INFO - Collected 3 comments for post 4
+2024-11-25 16:15:40,009 - INFO - Post 4 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-25 16:15:45,119 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 16:15:50,233 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 16:15:55,353 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 16:16:00,477 - ERROR - Error retrieving post data for post 8: Message: 
+
+2024-11-25 16:16:05,600 - ERROR - Error retrieving post data for post 9: Message: 
+
+2024-11-25 16:16:10,744 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 16:16:15,867 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 16:16:15,867 - INFO - Added 2 new posts. Total: 2
+2024-11-25 16:16:17,886 - INFO - Found 11 posts.
+2024-11-25 16:16:22,989 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 16:16:23,064 - INFO - Collected 5 comments for post 2
+2024-11-25 16:16:23,064 - INFO - Post 2 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-25 16:16:23,093 - INFO - Collected 1 comments for post 3
+2024-11-25 16:16:23,093 - INFO - Post 3 skipped due to insufficient text.
+2024-11-25 16:16:23,141 - INFO - Collected 3 comments for post 4
+2024-11-25 16:16:23,141 - INFO - Post 4 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-25 16:16:28,273 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 16:16:29,848 - INFO - Collected 3 comments for post 6
+2024-11-25 16:16:29,848 - INFO - Post 6 skipped due to insufficient text.
+2024-11-25 16:16:29,874 - INFO - Collected 1 comments for post 7
+2024-11-25 16:16:29,874 - INFO - Post 7 skipped due to insufficient text.
+2024-11-25 16:16:29,931 - INFO - Collected 3 comments for post 8
+2024-11-25 16:16:29,932 - INFO - Post 8 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628...
+2024-11-25 16:16:30,009 - ERROR - Error retrieving post data for post 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF658F8E1F5+2972373]
+	(No symbol) [0x00007FF658C255F0]
+	(No symbol) [0x00007FF658AC57FA]
+	(No symbol) [0x00007FF658ACC2CC]
+	(No symbol) [0x00007FF658ACE8FF]
+	(No symbol) [0x00007FF658B5CBB0]
+	(No symbol) [0x00007FF658B3BA7A]
+	(No symbol) [0x00007FF658B5B8CC]
+	(No symbol) [0x00007FF658B3B823]
+	(No symbol) [0x00007FF658B075E8]
+	(No symbol) [0x00007FF658B08751]
+	GetHandleVerifier [0x00007FF658FB47BD+3129501]
+	GetHandleVerifier [0x00007FF659004D00+3458528]
+	GetHandleVerifier [0x00007FF658FFB05D+3418429]
+	GetHandleVerifier [0x00007FF658D8687B+844123]
+	(No symbol) [0x00007FF658C30AFF]
+	(No symbol) [0x00007FF658C2C6D4]
+	(No symbol) [0x00007FF658C2C86D]
+	(No symbol) [0x00007FF658C1BD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-25 16:16:35,199 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 16:16:40,445 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 16:16:40,445 - INFO - Added 1 new posts. Total: 3
+2024-11-25 16:16:42,464 - INFO - Found 19 posts.
+2024-11-25 16:16:47,551 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 16:16:47,641 - INFO - Collected 5 comments for post 2
+2024-11-25 16:16:47,641 - INFO - Post 2 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-25 16:16:47,672 - INFO - Collected 1 comments for post 3
+2024-11-25 16:16:47,672 - INFO - Post 3 skipped due to insufficient text.
+2024-11-25 16:16:47,777 - INFO - Collected 3 comments for post 4
+2024-11-25 16:16:47,777 - INFO - Post 4 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-25 16:16:52,871 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 16:16:57,971 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 16:17:03,051 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 16:17:08,133 - ERROR - Error retrieving post data for post 8: Message: 
+
+2024-11-25 16:17:13,227 - ERROR - Error retrieving post data for post 9: Message: 
+
+2024-11-25 16:17:18,359 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 16:17:23,460 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 16:17:28,571 - ERROR - Error retrieving post data for post 12: Message: 
+
+2024-11-25 16:17:33,683 - ERROR - Error retrieving post data for post 13: Message: 
+
+2024-11-25 16:17:38,793 - ERROR - Error retrieving post data for post 14: Message: 
+
+2024-11-25 16:17:43,890 - ERROR - Error retrieving post data for post 15: Message: 
+
+2024-11-25 16:17:48,994 - ERROR - Error retrieving post data for post 16: Message: 
+
+2024-11-25 16:17:54,076 - ERROR - Error retrieving post data for post 17: Message: 
+
+2024-11-25 16:17:59,220 - ERROR - Error retrieving post data for post 18: Message: 
+
+2024-11-25 16:18:04,326 - ERROR - Error retrieving post data for post 19: Message: 
+
+2024-11-25 16:18:04,327 - INFO - Added 0 new posts. Total: 3
+2024-11-25 16:18:06,332 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-25 16:18:06,355 - INFO - Saved 3 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-25 16:18:06,355 - INFO - Scraping and saving complete.
+2024-11-25 19:28:56,204 - INFO - Found 11 posts.
+2024-11-25 19:29:01,439 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 19:29:01,584 - INFO - Collected 5 comments for post 2
+2024-11-25 19:29:01,585 - INFO - Post 2 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-25 19:29:01,623 - INFO - Collected 2 comments for post 3
+2024-11-25 19:29:01,623 - INFO - Post 3 skipped due to insufficient text.
+2024-11-25 19:29:01,697 - INFO - Collected 5 comments for post 4
+2024-11-25 19:29:01,697 - INFO - Post 4 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-25 19:29:06,966 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 19:29:12,316 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 19:29:17,680 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 19:29:23,025 - ERROR - Error retrieving post data for post 8: Message: 
+
+2024-11-25 19:29:28,366 - ERROR - Error retrieving post data for post 9: Message: 
+
+2024-11-25 19:29:33,692 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 19:29:39,014 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 19:29:39,015 - INFO - Added 2 new posts. Total: 2
+2024-11-25 19:29:41,134 - INFO - Found 16 posts.
+2024-11-25 19:29:46,389 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 19:29:51,720 - ERROR - Error retrieving post data for post 2: Message: 
+
+2024-11-25 19:29:57,077 - ERROR - Error retrieving post data for post 3: Message: 
+
+2024-11-25 19:29:57,463 - INFO - Collected 5 comments for post 4
+2024-11-25 19:29:57,463 - INFO - Post 4 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-25 19:30:02,706 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 19:30:02,772 - INFO - Collected 3 comments for post 6
+2024-11-25 19:30:02,772 - INFO - Post 6 skipped due to insufficient text.
+2024-11-25 19:30:02,805 - INFO - Collected 1 comments for post 7
+2024-11-25 19:30:02,805 - INFO - Post 7 skipped due to insufficient text.
+2024-11-25 19:30:02,860 - INFO - Collected 3 comments for post 8
+2024-11-25 19:30:02,860 - INFO - Post 8 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628...
+2024-11-25 19:30:02,887 - INFO - Collected 1 comments for post 9
+2024-11-25 19:30:02,887 - INFO - Post 9 skipped due to insufficient text.
+2024-11-25 19:30:02,920 - INFO - Collected 1 comments for post 10
+2024-11-25 19:30:02,920 - INFO - Post 10 skipped due to insufficient text.
+2024-11-25 19:30:02,940 - INFO - Collected 0 comments for post 11
+2024-11-25 19:30:02,940 - INFO - Post 11 skipped due to insufficient text.
+2024-11-25 19:30:02,977 - INFO - Collected 2 comments for post 12
+2024-11-25 19:30:02,977 - INFO - Post 12 skipped due to insufficient text.
+2024-11-25 19:30:08,227 - ERROR - Error retrieving post data for post 13: Message: 
+
+2024-11-25 19:30:13,478 - ERROR - Error retrieving post data for post 14: Message: 
+
+2024-11-25 19:30:18,748 - ERROR - Error retrieving post data for post 15: Message: 
+
+2024-11-25 19:30:24,203 - ERROR - Error retrieving post data for post 16: Message: 
+
+2024-11-25 19:30:24,204 - INFO - Added 1 new posts. Total: 3
+2024-11-25 19:30:26,306 - INFO - Found 23 posts.
+2024-11-25 19:30:31,436 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 19:30:36,600 - ERROR - Error retrieving post data for post 2: Message: 
+
+2024-11-25 19:30:41,926 - ERROR - Error retrieving post data for post 3: Message: 
+
+2024-11-25 19:30:47,233 - ERROR - Error retrieving post data for post 4: Message: 
+
+2024-11-25 19:30:52,375 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 19:30:57,667 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 19:31:02,996 - ERROR - Error retrieving post data for post 7: Message: 
+
+2024-11-25 19:31:08,257 - ERROR - Error retrieving post data for post 8: Message: 
+
+2024-11-25 19:31:13,510 - ERROR - Error retrieving post data for post 9: Message: 
+
+2024-11-25 19:31:18,862 - ERROR - Error retrieving post data for post 10: Message: 
+
+2024-11-25 19:31:24,191 - ERROR - Error retrieving post data for post 11: Message: 
+
+2024-11-25 19:31:29,530 - ERROR - Error retrieving post data for post 12: Message: 
+
+2024-11-25 19:31:34,802 - ERROR - Error retrieving post data for post 13: Message: 
+
+2024-11-25 19:31:40,101 - ERROR - Error retrieving post data for post 14: Message: 
+
+2024-11-25 19:31:40,315 - INFO - Collected 7 comments for post 15
+2024-11-25 19:31:40,315 - INFO - Post 15 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-25 19:31:40,379 - INFO - Collected 2 comments for post 16
+2024-11-25 19:31:40,379 - INFO - Post 16 collected: Bonjour. Il n'est plus possible d'avoir un chéquie...
+2024-11-25 19:31:40,521 - INFO - Collected 7 comments for post 17
+2024-11-25 19:31:40,521 - INFO - Post 17 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-25 19:31:40,588 - INFO - Collected 2 comments for post 18
+2024-11-25 19:31:40,589 - INFO - Post 18 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-25 19:31:40,661 - INFO - Collected 2 comments for post 19
+2024-11-25 19:31:40,661 - INFO - Post 19 skipped due to insufficient text.
+2024-11-25 19:31:45,936 - ERROR - Error retrieving post data for post 20: Message: 
+
+2024-11-25 19:31:51,198 - ERROR - Error retrieving post data for post 21: Message: 
+
+2024-11-25 19:31:56,495 - ERROR - Error retrieving post data for post 22: Message: 
+
+2024-11-25 19:32:01,685 - ERROR - Error retrieving post data for post 23: Message: 
+
+2024-11-25 19:32:01,685 - INFO - Added 4 new posts. Total: 7
+2024-11-25 19:32:03,768 - INFO - Found 26 posts.
+2024-11-25 19:32:09,051 - ERROR - Error retrieving post data for post 1: Message: 
+
+2024-11-25 19:32:14,365 - ERROR - Error retrieving post data for post 2: Message: 
+
+2024-11-25 19:32:19,625 - ERROR - Error retrieving post data for post 3: Message: 
+
+2024-11-25 19:32:24,773 - ERROR - Error retrieving post data for post 4: Message: 
+
+2024-11-25 19:32:29,972 - ERROR - Error retrieving post data for post 5: Message: 
+
+2024-11-25 19:32:35,252 - ERROR - Error retrieving post data for post 6: Message: 
+
+2024-11-25 19:32:38,734 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)': /session/ec184c932c8fc39984aafa95f0e3658f
+2024-11-25 19:32:42,819 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3E49244D0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/ec184c932c8fc39984aafa95f0e3658f
+2024-11-25 19:32:46,889 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3E49243B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/ec184c932c8fc39984aafa95f0e3658f
+2024-11-25 19:34:46,565 - INFO - Found 7 posts.
+2024-11-25 19:34:46,590 - INFO - Post 2 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-25 19:34:46,609 - INFO - Post 4 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-25 19:34:46,638 - INFO - Added 2 new posts. Total: 2
+2024-11-25 19:34:48,718 - INFO - Found 7 posts.
+2024-11-25 19:34:48,847 - INFO - Post 2 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-25 19:34:48,965 - INFO - Post 4 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-25 19:34:48,993 - INFO - Added 0 new posts. Total: 2
+2024-11-25 19:34:51,184 - INFO - Found 7 posts.
+2024-11-25 19:34:51,218 - INFO - Post 2 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-25 19:34:51,234 - INFO - Post 4 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-25 19:34:51,260 - INFO - Added 0 new posts. Total: 2
+2024-11-25 19:34:53,265 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-25 19:34:53,349 - INFO - Saved 2 posts to MongoDB collection 'facebook_posts' in database 'datetime11'.
+2024-11-25 19:34:53,349 - INFO - Scraping and saving complete.
+2024-11-26 10:18:22,527 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753BE5A3E]
+	(No symbol) [0x00007FF753BE5D2C]
+	(No symbol) [0x00007FF753C2EAB7]
+	(No symbol) [0x00007FF753C0BABF]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 10:19:56,552 - INFO - Found 9 posts.
+2024-11-26 10:19:56,615 - INFO - Post 2 collected: Bonjour, j'ai pas compris c quoi le problème ?...
+2024-11-26 10:19:56,678 - INFO - Added 1 new posts. Total: 1
+2024-11-26 10:19:58,767 - INFO - Found 16 posts.
+2024-11-26 10:19:58,812 - INFO - Post 5 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-26 10:19:58,820 - INFO - Post 6 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5a...
+2024-11-26 10:19:58,849 - INFO - Post 9 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628...
+2024-11-26 10:19:58,913 - INFO - Added 3 new posts. Total: 4
+2024-11-26 10:20:01,014 - INFO - Found 21 posts.
+2024-11-26 10:20:01,433 - INFO - Post 14 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-26 10:20:01,442 - INFO - Post 15 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-26 10:20:01,450 - INFO - Post 16 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-26 10:20:01,459 - INFO - Post 17 collected: Bonjour. Il n'est plus possible d'avoir un chéquie...
+2024-11-26 10:20:01,492 - INFO - Added 4 new posts. Total: 8
+2024-11-26 10:20:03,532 - INFO - Found 26 posts.
+2024-11-26 10:20:03,692 - INFO - Post 18 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-26 10:20:03,700 - INFO - Post 19 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-26 10:20:03,726 - INFO - Post 22 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 ...
+2024-11-26 10:20:03,734 - INFO - Post 23 collected: Bonjour, 
+J'ai un probleme au niveau de l app; dep...
+2024-11-26 10:20:03,760 - INFO - Added 4 new posts. Total: 12
+2024-11-26 10:20:05,785 - INFO - Found 30 posts.
+2024-11-26 10:20:05,969 - INFO - Post 22 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 ...
+2024-11-26 10:20:05,977 - INFO - Post 23 collected: Bonjour, 
+J'ai un probleme au niveau de l app; dep...
+2024-11-26 10:20:05,985 - INFO - Post 24 collected: \u062d\u062a\u0649 \u0628\u0627\u0634 \u0627\u062a\u0642\u0627\u0628\u0644 \u0627\u064a \u0645\u0633\u0624\u0644 \u0641\u064a \u0627\u0644\u0633\u064a\u0627\u062c \u0628\u0627\u0634 \u062a\u0637\u0631\u062d \u0645\u0634\u0643\u0644\u062a\u0643 \u0645...
+2024-11-26 10:20:06,003 - INFO - Post 26 collected: Bonjour, 
+Besoin d'effectuer un paiement en ligne ...
+2024-11-26 10:20:06,036 - INFO - Added 2 new posts. Total: 14
+2024-11-26 10:20:08,062 - INFO - Found 31 posts.
+2024-11-26 10:20:08,306 - INFO - Post 29 collected: \u062a\u0628\u0639\u0627 \u0644\u062a\u0648\u0642\u0641 biatnet \u0639\u0646 \u0625\u0633\u062f\u0627\u0621 \u0627\u0644\u062e\u062f\u0645\u0629 \u0648\u062a\u0648\u062c\u064a\u0647 \u0627\u0644\u062d\u0631\u0641\u0627\u0621 ...
+2024-11-26 10:20:08,325 - INFO - Added 1 new posts. Total: 15
+2024-11-26 10:20:10,349 - INFO - Found 34 posts.
+2024-11-26 10:20:10,625 - INFO - Post 29 collected: \u062a\u0628\u0639\u0627 \u0644\u062a\u0648\u0642\u0641 biatnet \u0639\u0646 \u0625\u0633\u062f\u0627\u0621 \u0627\u0644\u062e\u062f\u0645\u0629 \u0648\u062a\u0648\u062c\u064a\u0647 \u0627\u0644\u062d\u0631\u0641\u0627\u0621 ...
+2024-11-26 10:20:10,633 - INFO - Post 30 collected: \u0639\u0646\u062f\u064a réclamation de paiement en double par carte b...
+2024-11-26 10:20:10,642 - INFO - Post 31 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-26 10:20:10,651 - INFO - Post 32 collected: Bonjour, je voulais savoir svp si je peux retirer ...
+2024-11-26 10:20:10,831 - INFO - Added 2 new posts. Total: 17
+2024-11-26 10:20:12,875 - INFO - Found 39 posts.
+2024-11-26 10:20:13,210 - INFO - Post 33 collected: L’application MyBIAT ne fonctionne pas depuis hier...
+2024-11-26 10:20:13,218 - INFO - Post 34 collected: Bonjour, 
+L'option envoi de réclamation n'est pas ...
+2024-11-26 10:20:13,227 - INFO - Post 35 collected: Chers Clients,
+Engagés à vous offrir une expérienc...
+2024-11-26 10:20:13,239 - INFO - Post 36 collected: My Biat a envoyé un sondage d'évaluation par mail,...
+2024-11-26 10:20:13,266 - INFO - Added 4 new posts. Total: 21
+2024-11-26 10:20:15,359 - INFO - Found 43 posts.
+2024-11-26 10:20:16,085 - INFO - Post 36 collected: My Biat a envoyé un sondage d'évaluation par mail,...
+2024-11-26 10:20:16,109 - INFO - Post 39 collected: Salem 
+Besoin d'explications svp.
+Je n'ai pas effe...
+2024-11-26 10:20:16,142 - INFO - Added 1 new posts. Total: 22
+2024-11-26 10:20:18,179 - INFO - Found 49 posts.
+2024-11-26 10:20:18,560 - INFO - Post 43 collected: Bonsoir, la validite' de ma carte bancaire BIAT se...
+2024-11-26 10:20:18,577 - INFO - Post 45 collected: Bonsoir  j ai fait un versement dans le distribute...
+2024-11-26 10:20:18,611 - INFO - Added 2 new posts. Total: 24
+2024-11-26 10:20:20,704 - INFO - Found 52 posts.
+2024-11-26 10:20:21,674 - INFO - Post 48 collected: Bonjour jai eu un problème lors de ma reconnexion ...
+2024-11-26 10:20:21,682 - INFO - Post 49 collected: Bonsoir, j’arrive plus à me connecter sur biatnet ...
+2024-11-26 10:20:21,707 - INFO - Added 2 new posts. Total: 26
+2024-11-26 10:20:23,734 - INFO - Found 61 posts.
+2024-11-26 10:20:24,266 - INFO - Post 52 collected: Bonjour, je veux savoir pourquoi, lorsque je fais ...
+2024-11-26 10:20:24,274 - INFO - Post 53 collected: Bonjour,
+Est-ce qu'il y a une problème sur l'appli...
+2024-11-26 10:20:24,283 - INFO - Post 54 collected: J'ai essayé d'acheter un billet le 1er jour est éc...
+2024-11-26 10:20:24,292 - INFO - Post 55 collected: Bellehi carte classic najem nejbed biha mel dab w ...
+2024-11-26 10:20:24,364 - INFO - Post 56 collected: on fait comment pour télécharger l'assurance voyag...
+2024-11-26 10:20:24,410 - INFO - Added 5 new posts. Total: 31
+2024-11-26 10:20:26,658 - INFO - Found 69 posts.
+2024-11-26 10:20:27,210 - INFO - Post 58 collected: Bonsoir
+Fama mochkla fil les cartes biat lyoum ? M...
+2024-11-26 10:20:27,219 - INFO - Post 59 collected: Je n'arrive pas à faire un virement ?????
+Pas de S...
+2024-11-26 10:20:27,228 - INFO - Post 60 collected: Pourquoi le paiement Facture STEG/SONED disponible...
+2024-11-26 10:20:27,236 - INFO - Post 61 collected: Bonjour l'application me demande de faire la mise ...
+2024-11-26 10:20:27,305 - INFO - Added 4 new posts. Total: 35
+2024-11-26 10:20:29,464 - INFO - Found 75 posts.
+2024-11-26 10:20:30,244 - INFO - Post 66 collected: J ai essayé hier de recharger ma ligne téléphoniqu...
+2024-11-26 10:20:30,253 - INFO - Post 67 collected: Svp c'est urgent , si une carte a été désactivée p...
+2024-11-26 10:20:30,322 - INFO - Added 2 new posts. Total: 37
+2024-11-26 10:20:32,500 - INFO - Found 84 posts.
+2024-11-26 10:20:33,205 - INFO - Post 74 collected: Bonsoir, 
+J'ai un problème d'accès à MyBiat, bien ...
+2024-11-26 10:20:33,231 - INFO - Post 77 collected: Bonjour a chaque fois où je veux accéder à l appli...
+2024-11-26 10:20:33,293 - INFO - Added 2 new posts. Total: 39
+2024-11-26 10:20:35,302 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-26 10:20:35,397 - INFO - Saved 39 posts to MongoDB collection 'facebook_posts' in database 'datetime15'.
+2024-11-26 10:20:35,398 - INFO - Scraping and saving complete.
+2024-11-26 11:36:48,264 - INFO - Found 11 posts.
+2024-11-26 11:36:48,295 - INFO - Post 2 collected: Bonjour, j'ai pas compris c quoi le problème ?...
+2024-11-26 11:36:48,308 - INFO - Post 3 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-26 11:36:48,394 - INFO - Added 2 new posts. Total: 2
+2024-11-26 11:36:52,491 - INFO - Found 7 posts.
+2024-11-26 11:36:53,150 - ERROR - Error retrieving post data for post 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:36:53,180 - INFO - Added 0 new posts. Total: 2
+2024-11-26 11:36:55,263 - INFO - Found 21 posts.
+2024-11-26 11:36:55,621 - INFO - Post 14 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-26 11:36:55,639 - INFO - Post 15 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-26 11:36:55,732 - INFO - Added 2 new posts. Total: 4
+2024-11-26 11:36:57,788 - INFO - Found 26 posts.
+2024-11-26 11:36:58,277 - INFO - Post 18 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-26 11:36:58,299 - INFO - Post 19 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-26 11:36:58,354 - INFO - Post 22 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 ...
+2024-11-26 11:36:58,375 - INFO - Post 23 collected: Bonjour, 
+J'ai un probleme au niveau de l app; dep...
+2024-11-26 11:36:58,422 - INFO - Added 4 new posts. Total: 8
+2024-11-26 11:37:00,506 - INFO - Found 35 posts.
+2024-11-26 11:37:00,960 - INFO - Post 26 collected: Bonjour, 
+Besoin d'effectuer un paiement en ligne ...
+2024-11-26 11:37:01,102 - INFO - Added 1 new posts. Total: 9
+2024-11-26 11:37:03,250 - INFO - Found 40 posts.
+2024-11-26 11:37:04,004 - INFO - Post 30 collected: \u0639\u0646\u062f\u064a réclamation de paiement en double par carte b...
+2024-11-26 11:37:04,027 - INFO - Post 31 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-26 11:37:04,047 - INFO - Post 32 collected: Bonjour, je voulais savoir svp si je peux retirer ...
+2024-11-26 11:37:04,067 - INFO - Post 33 collected: L’application MyBIAT ne fonctionne pas depuis hier...
+2024-11-26 11:37:04,085 - INFO - Post 34 collected: Bonjour, 
+L'option envoi de réclamation n'est pas ...
+2024-11-26 11:37:04,102 - INFO - Post 35 collected: Chers Clients,
+Engagés à vous offrir une expérienc...
+2024-11-26 11:37:04,179 - INFO - Added 5 new posts. Total: 14
+2024-11-26 11:37:06,216 - INFO - Found 48 posts.
+2024-11-26 11:37:06,967 - INFO - Post 39 collected: Salem 
+Besoin d'explications svp.
+Je n'ai pas effe...
+2024-11-26 11:37:07,070 - INFO - Post 43 collected: Bonsoir, la validite' de ma carte bancaire BIAT se...
+2024-11-26 11:37:07,190 - INFO - Added 2 new posts. Total: 16
+2024-11-26 11:37:09,307 - INFO - Found 54 posts.
+2024-11-26 11:37:10,220 - INFO - Post 48 collected: Bonjour jai eu un problème lors de ma reconnexion ...
+2024-11-26 11:37:10,236 - INFO - Post 49 collected: Bonsoir, j’arrive plus à me connecter sur biatnet ...
+2024-11-26 11:37:10,316 - INFO - Added 2 new posts. Total: 18
+2024-11-26 11:37:12,381 - INFO - Found 62 posts.
+2024-11-26 11:37:13,390 - INFO - Post 52 collected: Bonjour, je veux savoir pourquoi, lorsque je fais ...
+2024-11-26 11:37:13,405 - INFO - Post 53 collected: Bonjour,
+Est-ce qu'il y a une problème sur l'appli...
+2024-11-26 11:37:13,426 - INFO - Post 54 collected: J'ai essayé d'acheter un billet le 1er jour est éc...
+2024-11-26 11:37:13,442 - INFO - Post 55 collected: Bellehi carte classic najem nejbed biha mel dab w ...
+2024-11-26 11:37:13,569 - INFO - Added 4 new posts. Total: 22
+2024-11-26 11:37:15,637 - INFO - Found 67 posts.
+2024-11-26 11:37:16,850 - INFO - Post 58 collected: Bonsoir
+Fama mochkla fil les cartes biat lyoum ? M...
+2024-11-26 11:37:16,868 - INFO - Post 59 collected: Je n'arrive pas à faire un virement ?????
+Pas de S...
+2024-11-26 11:37:16,882 - INFO - Post 60 collected: Pourquoi le paiement Facture STEG/SONED disponible...
+2024-11-26 11:37:16,900 - INFO - Post 61 collected: Bonjour l'application me demande de faire la mise ...
+2024-11-26 11:37:17,008 - INFO - Added 4 new posts. Total: 26
+2024-11-26 11:37:19,133 - INFO - Found 76 posts.
+2024-11-26 11:37:20,526 - INFO - Post 66 collected: J ai essayé hier de recharger ma ligne téléphoniqu...
+2024-11-26 11:37:20,543 - INFO - Post 67 collected: Svp c'est urgent , si une carte a été désactivée p...
+2024-11-26 11:37:20,682 - INFO - Added 2 new posts. Total: 28
+2024-11-26 11:37:22,827 - INFO - Found 83 posts.
+2024-11-26 11:37:24,531 - ERROR - Error retrieving post data for post 70: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,539 - ERROR - Error retrieving post data for post 71: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,565 - ERROR - Error retrieving post data for post 72: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,620 - ERROR - Error retrieving post data for post 73: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,642 - ERROR - Error retrieving post data for post 74: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,648 - ERROR - Error retrieving post data for post 75: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,655 - ERROR - Error retrieving post data for post 76: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,672 - ERROR - Error retrieving post data for post 77: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,679 - ERROR - Error retrieving post data for post 78: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,684 - ERROR - Error retrieving post data for post 79: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,688 - ERROR - Error retrieving post data for post 80: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,692 - ERROR - Error retrieving post data for post 81: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,697 - ERROR - Error retrieving post data for post 82: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,707 - ERROR - Error retrieving post data for post 83: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 11:37:24,707 - INFO - Added 0 new posts. Total: 28
+2024-11-26 11:37:26,749 - INFO - Found 15 posts.
+2024-11-26 11:37:26,789 - INFO - Post 2 collected: Bonjour, j'ai pas compris c quoi le problème ?...
+2024-11-26 11:37:26,813 - INFO - Post 3 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-26 11:37:27,022 - INFO - Added 0 new posts. Total: 28
+2024-11-26 11:37:29,071 - INFO - Found 23 posts.
+2024-11-26 11:37:29,290 - INFO - Post 14 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-26 11:37:29,308 - INFO - Post 15 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-26 11:37:29,327 - INFO - Post 16 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-26 11:37:29,429 - INFO - Added 1 new posts. Total: 29
+2024-11-26 11:37:31,466 - INFO - Found 31 posts.
+2024-11-26 11:37:31,737 - INFO - Post 18 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-26 11:37:31,752 - INFO - Post 19 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-26 11:37:31,796 - INFO - Post 22 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 ...
+2024-11-26 11:37:31,811 - INFO - Post 23 collected: Bonjour, 
+J'ai un probleme au niveau de l app; dep...
+2024-11-26 11:37:32,004 - INFO - Added 0 new posts. Total: 29
+2024-11-26 11:37:34,014 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-26 11:37:34,035 - INFO - Saved 29 posts to MongoDB collection 'facebook_posts' in database 'datetime15'.
+2024-11-26 11:37:34,035 - INFO - Scraping and saving complete.
+2024-11-26 11:58:02,412 - INFO - Found 9 posts.
+2024-11-26 11:58:02,439 - INFO - Post 2 collected: Bonjour, j'ai pas compris c quoi le problème ?...
+2024-11-26 11:58:02,539 - INFO - Added 1 new posts. Total: 1
+2024-11-26 11:58:04,626 - INFO - Found 13 posts.
+2024-11-26 11:58:04,881 - INFO - Post 5 collected: Salem. J ai lu qu'à partir de 2 février 2025 les b...
+2024-11-26 11:58:04,900 - INFO - Post 6 collected: Bonjour, ya5i fi Tunis tssob floussek b Devise t5a...
+2024-11-26 11:58:04,937 - INFO - Post 9 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628...
+2024-11-26 11:58:04,987 - INFO - Added 3 new posts. Total: 4
+2024-11-26 11:58:07,078 - INFO - Found 23 posts.
+2024-11-26 11:58:07,251 - INFO - Post 14 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-26 11:58:07,260 - INFO - Post 15 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-26 11:58:07,269 - INFO - Post 16 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-26 11:58:07,279 - INFO - Post 17 collected: Bonjour. Il n'est plus possible d'avoir un chéquie...
+2024-11-26 11:58:07,333 - INFO - Added 4 new posts. Total: 8
+2024-11-26 11:58:09,373 - INFO - Found 29 posts.
+2024-11-26 11:58:09,535 - INFO - Post 18 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-26 11:58:09,544 - INFO - Post 19 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-26 11:58:09,571 - INFO - Post 22 collected: \u0634\u0647\u0631\u064a\u062a\u064a 2000 \u062f\u064a\u0646\u0627\u0631 \u0646\u0627\u062a \u0645\u0627\u062e\u0648 \u0645\u0646 biat \u0642\u0631\u0636 \u0639\u0644\u0649 5 \u0633\u0646\u064a\u0646 ...
+2024-11-26 11:58:09,580 - INFO - Post 23 collected: Bonjour, 
+J'ai un probleme au niveau de l app; dep...
+2024-11-26 11:58:09,634 - INFO - Added 4 new posts. Total: 12
+2024-11-26 11:58:11,667 - INFO - Found 34 posts.
+2024-11-26 11:58:11,919 - INFO - Post 26 collected: Bonjour, 
+Besoin d'effectuer un paiement en ligne ...
+2024-11-26 11:58:12,113 - INFO - Added 1 new posts. Total: 13
+2024-11-26 11:58:14,219 - INFO - Found 43 posts.
+2024-11-26 11:58:15,108 - INFO - Post 31 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-26 11:58:15,117 - INFO - Post 32 collected: Bonjour, je voulais savoir svp si je peux retirer ...
+2024-11-26 11:58:15,126 - INFO - Post 33 collected: L’application MyBIAT ne fonctionne pas depuis hier...
+2024-11-26 11:58:15,135 - INFO - Post 34 collected: Bonjour, 
+L'option envoi de réclamation n'est pas ...
+2024-11-26 11:58:15,144 - INFO - Post 35 collected: Chers Clients,
+Engagés à vous offrir une expérienc...
+2024-11-26 11:58:15,154 - INFO - Post 36 collected: My Biat a envoyé un sondage d'évaluation par mail,...
+2024-11-26 11:58:15,221 - INFO - Added 5 new posts. Total: 18
+2024-11-26 11:58:17,309 - INFO - Found 50 posts.
+2024-11-26 11:58:17,844 - INFO - Post 39 collected: Salem 
+Besoin d'explications svp.
+Je n'ai pas effe...
+2024-11-26 11:58:17,945 - INFO - Added 1 new posts. Total: 19
+2024-11-26 11:58:20,021 - INFO - Found 56 posts.
+2024-11-26 11:58:20,443 - INFO - Post 45 collected: Bonsoir  j ai fait un versement dans le distribute...
+2024-11-26 11:58:20,470 - INFO - Post 48 collected: Bonjour jai eu un problème lors de ma reconnexion ...
+2024-11-26 11:58:20,480 - INFO - Post 49 collected: Bonsoir, j’arrive plus à me connecter sur biatnet ...
+2024-11-26 11:58:20,543 - INFO - Added 3 new posts. Total: 22
+2024-11-26 11:58:22,569 - INFO - Found 61 posts.
+2024-11-26 11:58:23,269 - INFO - Post 52 collected: Bonjour, je veux savoir pourquoi, lorsque je fais ...
+2024-11-26 11:58:23,279 - INFO - Post 53 collected: Bonjour,
+Est-ce qu'il y a une problème sur l'appli...
+2024-11-26 11:58:23,287 - INFO - Post 54 collected: J'ai essayé d'acheter un billet le 1er jour est éc...
+2024-11-26 11:58:23,296 - INFO - Post 55 collected: Bellehi carte classic najem nejbed biha mel dab w ...
+2024-11-26 11:58:23,306 - INFO - Post 56 collected: on fait comment pour télécharger l'assurance voyag...
+2024-11-26 11:58:23,350 - INFO - Added 5 new posts. Total: 27
+2024-11-26 11:58:25,490 - INFO - Found 71 posts.
+2024-11-26 11:58:26,101 - INFO - Post 59 collected: Je n'arrive pas à faire un virement ?????
+Pas de S...
+2024-11-26 11:58:26,110 - INFO - Post 60 collected: Pourquoi le paiement Facture STEG/SONED disponible...
+2024-11-26 11:58:26,119 - INFO - Post 61 collected: Bonjour l'application me demande de faire la mise ...
+2024-11-26 11:58:26,209 - INFO - Added 3 new posts. Total: 30
+2024-11-26 11:58:28,313 - INFO - Found 76 posts.
+2024-11-26 11:58:29,133 - INFO - Post 66 collected: J ai essayé hier de recharger ma ligne téléphoniqu...
+2024-11-26 11:58:29,142 - INFO - Post 67 collected: Svp c'est urgent , si une carte a été désactivée p...
+2024-11-26 11:58:29,223 - INFO - Added 2 new posts. Total: 32
+2024-11-26 11:58:31,249 - INFO - Found 86 posts.
+2024-11-26 11:58:31,951 - INFO - Post 77 collected: Bonjour a chaque fois où je veux accéder à l appli...
+2024-11-26 11:58:31,969 - INFO - Post 79 collected: Bonjour.
+J'ai passé une demande de chéquier le 19 ...
+2024-11-26 11:58:31,978 - INFO - Post 80 collected: Bonjour à tous.  J'ai constaté une erreur de mon s...
+2024-11-26 11:58:32,031 - INFO - Added 3 new posts. Total: 35
+2024-11-26 11:58:34,111 - INFO - Found 91 posts.
+2024-11-26 11:58:34,876 - INFO - Post 83 collected: J’ai reçu un virement depuis vendredi et ma carte ...
+2024-11-26 11:58:34,894 - INFO - Post 85 collected: Until when, ??
+ 
+Even the website not working 
+Thi...
+2024-11-26 11:58:34,948 - INFO - Added 2 new posts. Total: 37
+2024-11-26 11:58:37,008 - INFO - Found 98 posts.
+2024-11-26 11:58:37,822 - INFO - Post 87 collected: BIAT reclamation tab9a 1 mois et demi 9al chnowa 2...
+2024-11-26 11:58:37,840 - INFO - Post 89 collected: Bonjour 
+J'ai utilisé #MyBIAT  hier pour payer la ...
+2024-11-26 11:58:37,849 - INFO - Post 90 collected: je suis résident à l'étranger et j'ai fait une dem...
+2024-11-26 11:58:37,858 - INFO - Post 91 collected: Salut 
+Najm njbed montant kbir m agence biat okhra...
+2024-11-26 11:58:37,920 - INFO - Added 4 new posts. Total: 41
+2024-11-26 11:58:39,969 - INFO - Found 103 posts.
+2024-11-26 11:58:41,057 - INFO - Post 94 collected: J'ai reçu un virement de l'étranger (Émirats), l'a...
+2024-11-26 11:58:41,066 - INFO - Post 95 collected: Depuis les dernières mises à jour de l’application...
+2024-11-26 11:58:41,084 - INFO - Post 97 collected: Une fois de plus, mybiat ne fonctionne pas. Chaque...
+2024-11-26 11:58:41,094 - INFO - Post 98 collected: Bonjour, application non fonctionnelle !!?? Jusqu'...
+2024-11-26 11:58:41,141 - INFO - Added 4 new posts. Total: 45
+2024-11-26 11:58:43,150 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-26 11:58:43,180 - INFO - Saved 45 posts to MongoDB collection 'facebook_posts' in database 'datetime20'.
+2024-11-26 11:58:43,181 - INFO - Scraping and saving complete.
+2024-11-26 12:23:11,567 - INFO - Found 14 posts.
+2024-11-26 12:23:11,590 - INFO - Post 2 collected: Bonjour, j'ai pas compris c quoi le problème ?...
+2024-11-26 12:23:11,600 - INFO - Post 3 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-26 12:23:11,702 - INFO - Added 2 new posts. Total: 2
+2024-11-26 12:23:13,752 - INFO - Found 18 posts.
+2024-11-26 12:23:13,789 - INFO - Post 3 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-26 12:23:13,840 - INFO - Post 9 collected: \u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0648\u0631 \u0645\u0639 \u0623\u0646\u064a \u0642\u0627\u064a\u0645\u0629 \u0639\u0627\u0645\u0644\u0629 \u062c\u0648 \u0648 \u0645\u062a\u0641\u0631\u0647\u062f\u0629 \u0645\u0627\u0634\u064a\u0629 \u0628...
+2024-11-26 12:23:13,967 - INFO - Post 14 collected: Bonjour
+quels sont les frais pour SUSPENDRE UN PLA...
+2024-11-26 12:23:13,977 - INFO - Post 15 collected: Expériences positives MyBIAT
+J'étais en déplacemen...
+2024-11-26 12:23:13,987 - INFO - Post 16 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-26 12:23:14,007 - INFO - Added 4 new posts. Total: 6
+2024-11-26 12:23:16,038 - INFO - Found 25 posts.
+2024-11-26 12:23:16,065 - INFO - Post 3 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-26 12:23:16,183 - INFO - Post 16 collected: Je n'arrive pas à faire de virement depuis cet apr...
+2024-11-26 12:23:16,193 - INFO - Post 17 collected: Bonjour. Il n'est plus possible d'avoir un chéquie...
+2024-11-26 12:23:16,202 - INFO - Post 18 collected: Bonjour chabeb
+J'essaie d'effectuer un virement po...
+2024-11-26 12:23:16,210 - INFO - Post 19 collected: Bonjour est ce que la biat a tenue compte de la lo...
+2024-11-26 12:23:16,268 - INFO - Added 3 new posts. Total: 9
+2024-11-26 12:23:18,278 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-26 12:23:18,298 - INFO - Saved 9 posts to MongoDB collection 'facebook_posts' in database 'datetime1'.
+2024-11-26 12:23:18,298 - INFO - Scraping and saving complete.
+2024-11-26 12:34:54,952 - INFO - Found 7 posts.
+2024-11-26 12:34:54,973 - INFO - Post 2 collected: Bonjour, j'ai pas compris c quoi le problème ?...
+2024-11-26 12:34:54,981 - INFO - Post 3 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-26 12:34:55,014 - INFO - Added 2 new posts. Total: 2
+2024-11-26 12:34:57,093 - INFO - Found 7 posts.
+2024-11-26 12:34:57,186 - INFO - Post 2 collected: Bonjour, j'ai pas compris c quoi le problème ?...
+2024-11-26 12:34:57,195 - INFO - Post 3 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-26 12:34:57,228 - INFO - Added 0 new posts. Total: 2
+2024-11-26 12:34:59,386 - INFO - Found 8 posts.
+2024-11-26 12:34:59,415 - INFO - Post 2 collected: Bonjour, j'ai pas compris c quoi le problème ?...
+2024-11-26 12:34:59,425 - INFO - Post 3 collected: bonsoir brabi carte tempo mte3i désactiver par la ...
+2024-11-26 12:34:59,447 - ERROR - Error retrieving post data for post 6: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75405E1F5+2972373]
+	(No symbol) [0x00007FF753CF55F0]
+	(No symbol) [0x00007FF753B957FA]
+	(No symbol) [0x00007FF753B9C2CC]
+	(No symbol) [0x00007FF753B9E8FF]
+	(No symbol) [0x00007FF753C2CBB0]
+	(No symbol) [0x00007FF753C0BA7A]
+	(No symbol) [0x00007FF753C2B8CC]
+	(No symbol) [0x00007FF753C0B823]
+	(No symbol) [0x00007FF753BD75E8]
+	(No symbol) [0x00007FF753BD8751]
+	GetHandleVerifier [0x00007FF7540847BD+3129501]
+	GetHandleVerifier [0x00007FF7540D4D00+3458528]
+	GetHandleVerifier [0x00007FF7540CB05D+3418429]
+	GetHandleVerifier [0x00007FF753E5687B+844123]
+	(No symbol) [0x00007FF753D00AFF]
+	(No symbol) [0x00007FF753CFC6D4]
+	(No symbol) [0x00007FF753CFC86D]
+	(No symbol) [0x00007FF753CEBD79]
+	BaseThreadInitThunk [0x00007FFCE6D27374+20]
+	RtlUserThreadStart [0x00007FFCE719CC91+33]
+
+2024-11-26 12:34:59,465 - INFO - Added 0 new posts. Total: 2
+2024-11-26 12:35:01,471 - INFO - CSV file 'facebook_group_posts.csv' created successfully.
+2024-11-26 12:35:01,525 - INFO - Saved 2 posts to MongoDB collection 'facebook_posts' in database 'datetime111'.
+2024-11-26 12:35:01,525 - INFO - Scraping and saving complete.
