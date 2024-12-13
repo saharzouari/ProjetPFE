@@ -73,35 +73,30 @@ def scroll_down(driver):
         logging.error(f"Scrolling failed: {e}")
 
 def convert_relative_date(raw_date):
-    
-
     now = datetime.now()
     try:
         # Relative dates
-        if "j" in raw_date:  # Days ago
-            days_ago = int(re.search(r'(\d+)', raw_date).group(1))
-            return (now - timedelta(days=days_ago)).isoformat()
-        elif "h" in raw_date:  # Hours ago
+        if "h" in raw_date:  # Hours ago
             hours_ago = int(re.search(r'(\d+)', raw_date).group(1))
             return (now - timedelta(hours=hours_ago)).isoformat()
         elif "min" in raw_date:  # Minutes ago
             minutes_ago = int(re.search(r'(\d+)', raw_date).group(1))
             return (now - timedelta(minutes=minutes_ago)).isoformat()
 
-        # Absolute dates
+        # Absolute dates in the format '6 juin à 10:30'
         match = re.search(r'(\d{1,2}) (\w+) à (\d{1,2}:\d{2})', raw_date)
         if match:
             day, month_name, time_str = match.groups()
-            # Convert the French month name to datetime
             month_number = datetime.strptime(month_name, "%B").month
             post_datetime = datetime(now.year, month_number, int(day), *map(int, time_str.split(":")))
             return post_datetime.isoformat()
 
-        # Fallback
+        # Fallback for unrecognized date formats
         return raw_date
     except Exception as e:
         logging.warning(f"Error parsing date '{raw_date}': {e}")
         return raw_date
+
 
 def get_all_posts(driver):
     posts_data = []
@@ -117,23 +112,31 @@ def get_all_posts(driver):
                     post
                 )
 
+                # Modify the post date extraction to correctly target the time link
                 post_date_str = driver.execute_script(
-                    "return arguments[0].querySelector('abbr')?.ariaLabel?.innerText || '';",
+                    "return arguments[0].querySelector('a[aria-label]')?.getAttribute('aria-label') || '';",
                     post
                 )
 
                 post_date = convert_relative_date(post_date_str)
 
-                comment_elements = post.find_elements(By.CSS_SELECTOR, "div[aria-label='Comment']")
+                # Extracting commenter's name using the provided selector
+                commenter_elements = post.find_elements(By.CSS_SELECTOR, "span.x193iq5w.xeuugli.x13faqbe.x1vvkbs.x1xmvt09.x1lliihq.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.x4zkp8e.x676frb.x1nxh6w3.x1sibtaa.x1s688f.xzsf02u")
+                commenters = [commenter.text.strip() for commenter in commenter_elements if commenter.text.strip()]
+
+                # Extracting comment text using the provided selector
+                comment_elements = post.find_elements(By.CSS_SELECTOR, "div[dir='auto'][style='text-align: start;']")
                 comments = [comment.text.strip() for comment in comment_elements if comment.text.strip()]
 
                 if post_text and len(post_text) > 20:
                     posts_data.append({
                         'postText': post_text,
                         'postDate': post_date,
-                        'comments': comments
+                        'comments': comments,
+                        'commenters': commenters
                     })
                     logging.info(f"Post {index + 1} collected: {post_text[:50]}...")
+
             except Exception as e:
                 logging.error(f"Error retrieving post data for post {index + 1}: {e}")
     except Exception as e:
@@ -144,7 +147,7 @@ def run():
     options = Options()
     options.add_argument("--start-maximized")
     driver_service = Service('C:\\Users\\msi\\Desktop\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')
-    driver = webdriver.Chrome(service=driver_service, options=options)
+    driver = webdriver.Chrome()
 
     try:
         driver.get('https://www.facebook.com/login')
@@ -183,7 +186,7 @@ def run():
         # Save collected posts
         if all_content:
             create_csv(all_content, 'facebook_group_posts.csv')
-            save_to_mongo(all_content, db_name='datetime111', collection_name='facebook_posts')
+            save_to_mongo(all_content, db_name='ppp', collection_name='facebook_posts')
             logging.info("Scraping and saving complete.")
         else:
             logging.warning("No posts collected.")
@@ -194,7 +197,7 @@ def run():
         driver.quit()
 
 # Scheduling the task to run every day at 10 AM
-schedule.every().day.at("12:34").do(run)
+schedule.every().day.at("13:46").do(run)
 
 if __name__ == "__main__":
     while True:
